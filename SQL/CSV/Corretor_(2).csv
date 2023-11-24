@@ -1,0 +1,55 @@
+id,Usuario_id,experiencia,especializacao,areaDeAtuacao,comissao
+1,351,Corretor de Imoveis Comerciais,Corretor de Imoveis Comerciais,Zona Oeste,9.24
+2,352,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Sul,8.68
+3,353,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Oeste,9.36
+4,354,Corretor de Imoveis de Luxo,Corretor de Imoveis Comerciais,Zona Norte,7.43
+5,355,Corretor de Imoveis Comerciais,Corretor de Imoveis Comerciais,Zona Leste,9.85
+6,356,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Norte,9.16
+7,357,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Norte,9.56
+8,358,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Oeste,6.32
+9,359,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Oeste,7.82
+10,360,Corretor de Imoveis Comerciais,Corretor de Imoveis Comerciais,Zona Norte,6.2
+11,361,Corretor de Imoveis de Luxo,Corretor de Imoveis Comerciais,Zona Oeste,9.08
+12,362,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Norte,6.89
+13,363,Corretor de Imoveis de Luxo,Corretor de Imoveis de Luxo,Zona Sul,6.12
+14,364,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Leste,6.23
+15,365,Corretor de Imoveis de Luxo,Corretor de Imoveis de Luxo,Zona Leste,6.69
+16,366,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Oeste,8.63
+17,367,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Sul,6.02
+18,368,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Sul,9.07
+19,369,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Norte,6.2
+20,370,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Sul,7.1
+21,371,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Leste,9.08
+22,372,Corretor de Imoveis de Luxo,Corretor de Imoveis de Luxo,Zona Leste,6.45
+23,373,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Norte,8.27
+24,374,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Oeste,6.59
+25,375,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Leste,7.23
+26,376,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Sul,8.57
+27,377,Corretor de Imoveis Comerciais,Corretor de Imoveis Comerciais,Zona Leste,7.65
+28,378,Corretor de Imoveis Comerciais,Corretor de Imoveis de Luxo,Zona Leste,7.43
+29,379,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Leste,9.54
+30,380,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Sul,7.55
+31,381,Corretor de Imoveis Comerciais,Corretor de Imoveis de Luxo,Zona Oeste,6.55
+32,382,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Oeste,8.07
+33,383,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Leste,6.21
+34,384,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Norte,6.45
+35,385,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Norte,9.24
+36,386,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Norte,9.82
+37,387,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Norte,8.01
+38,388,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Norte,7.27
+39,389,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Leste,6.89
+40,390,Corretor de Imoveis de Luxo,Corretor de Imoveis de Luxo,Zona Leste,9.16
+41,391,Corretor de Imoveis de Luxo,Corretor de Imoveis Comerciais,Zona Oeste,9.12
+42,392,Corretor de Imoveis Comerciais,Corretor de Imoveis Comerciais,Zona Sul,9.82
+43,393,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Oeste,8.9
+44,394,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Sul,7.9
+45,395,Corretor de Imoveis Residenciais,Corretor de Imoveis Comerciais,Zona Oeste,6.96
+46,396,Corretor de Imoveis Residenciais,Corretor de Imoveis Residenciais,Zona Oeste,6.82
+47,397,Corretor de Imoveis de Luxo,Corretor de Imoveis de Luxo,Zona Norte,8.91
+48,398,Corretor de Imoveis de Luxo,Corretor de Imoveis Comerciais,Zona Leste,9.13
+49,399,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Leste,9.22
+50,400,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Sul,7.1
+51,401,Corretor de Imoveis de Luxo,Corretor de Imoveis Residenciais,Zona Oeste,7.3
+52,402,Corretor de Imoveis Comerciais,Corretor de Imoveis Residenciais,Zona Oeste,8.67
+53,403,Corretor de Imoveis Residenciais,Corretor de Imoveis de Luxo,Zona Norte,6.56
+54,404,Corretor de Imoveis Comerciais,Corretor de Imoveis de Luxo,Zona Leste,8.99

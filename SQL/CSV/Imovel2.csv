@@ -1,0 +1,501 @@
+id,Condominio_id,Proprietario_id,tipo,endereco,regiao,estado,cidade,qtdQuartos,qtdBanheiro,qtdGaragem,tamanho,fotoImovel,fornecedorEnergia,fornecedorAgua
+1,15,58,Casa,5915 Prairieview Circle,Zona Leste,Alagoas,Cuiabá,6,1,1,277.05,URL: https://www.izimoveis/foto1278.com.br,Energisa,Neoenergia
+2,24,64,Casa,2036 Mitchell Way,Zona Leste,Goiás,Porto Alegre,5,7,3,855.94,URL: https://www.izimoveis/foto8882.com.br,Eletrobras,CPFL Energia
+3,18,47,Apartamento,91 Swallow Park,Zona Norte,Acre,Palmas,7,4,4,47.42,URL: https://www.izimoveis/foto1198.com.br,Neoenergia,Eletrobras
+4,9,20,Apartamento,67187 Arapahoe Point,Zona Sul,Paraná,São Paulo,4,6,3,564.52,URL: https://www.izimoveis/foto3973.com.br,Elektro,Cemig
+5,11,70,Apartamento,6 Farwell Circle,Zona Sul,Rio Grande do Sul,Porto Velho,6,6,5,832.26,URL: https://www.izimoveis/foto8525.com.br,Celesc),CPFL Energia
+6,5,77,Casa,037 2nd Street,Zona Oeste,Sergipe,São Paulo,3,5,4,165.76,URL: https://www.izimoveis/foto3379.com.br,Eletrobras,Light
+7,28,28,Casa,6 Towne Park,Zona Sul,Rondônia,Florianópolis,2,3,3,938.94,URL: https://www.izimoveis/foto6945.com.br,Celesc),Neoenergia
+8,17,24,Apartamento,590 Graceland Circle,Zona Leste,Distrito Federal,Porto Velho,4,1,5,249.39,URL: https://www.izimoveis/foto5072.com.br,Elektro,Neoenergia
+9,23,26,Apartamento,2 Summer Ridge Drive,Zona Sul,Bahia,Palmas,4,3,2,580.02,URL: https://www.izimoveis/foto3666.com.br,Celesc),Energisa
+10,16,78,Apartamento,21946 Autumn Leaf Drive,Zona Sul,Goiás,Cuiabá,4,8,1,430.66,URL: https://www.izimoveis/foto3107.com.br,Neoenergia,Celesc)
+11,24,48,Apartamento,55197 Jenna Point,Zona Leste,Maranhão,Cuiabá,5,1,4,312.37,URL: https://www.izimoveis/foto7309.com.br,CPFL Energia,Celesc)
+12,24,48,Apartamento,6 Longview Alley,Zona Sul,Distrito Federal,Salvador,4,2,2,832.23,URL: https://www.izimoveis/foto9557.com.br,Cemig,Celesc)
+13,10,51,Casa,7310 Kings Parkway,Zona Oeste,Maranhão,Porto Alegre,3,4,4,889.95,URL: https://www.izimoveis/foto1732.com.br,Eletrobras,Energética
+14,29,21,Casa,7129 Chive Terrace,Zona Norte,Goiás,Brasília,4,1,2,946.94,URL: https://www.izimoveis/foto4483.com.br,Energisa,Energética
+15,8,26,Casa,046 Di Loreto Place,Zona Leste,Amazonas,Belém,6,6,1,196.52,URL: https://www.izimoveis/foto7548.com.br,Eletrobras,CPFL Energia
+16,25,24,Apartamento,23680 Schiller Trail,Zona Norte,Distrito Federal,Porto Velho,7,7,3,428.19,URL: https://www.izimoveis/foto5360.com.br,Neoenergia,Energética
+17,7,13,Apartamento,36687 Fisk Parkway,Zona Oeste,Piauí,Vitória,5,2,5,965.0,URL: https://www.izimoveis/foto1613.com.br,Energética,Energética
+18,16,28,Apartamento,74074 Canary Terrace,Zona Leste,Mato Grosso,Aracaju,3,7,2,184.6,URL: https://www.izimoveis/foto4384.com.br,Energisa,Cemig
+19,28,66,Apartamento,7 Monica Point,Zona Sul,Roraima,Rio de Janeiro,1,2,1,388.2,URL: https://www.izimoveis/foto6392.com.br,Copel,Neoenergia
+20,5,12,Casa,17 Spohn Plaza,Zona Norte,Sergipe,Florianópolis,6,3,4,215.64,URL: https://www.izimoveis/foto0194.com.br,Neoenergia,Copel
+21,9,60,Casa,67 Summit Junction,Zona Oeste,Maranhão,Belo Horizonte,3,7,4,581.43,URL: https://www.izimoveis/foto2448.com.br,Cemig,Copel
+22,2,67,Casa,94 Red Cloud Plaza,Zona Leste,Tocantins,Manaus,7,3,5,994.98,URL: https://www.izimoveis/foto0101.com.br,Neoenergia,Eletrobras
+23,16,68,Apartamento,0707 Hanson Drive,Zona Norte,Piauí,Campo Grande,3,5,1,609.09,URL: https://www.izimoveis/foto1006.com.br,Light,Eletrobras
+24,18,41,Apartamento,86 Kingsford Place,Zona Norte,Distrito Federal,Belém,3,5,5,457.61,URL: https://www.izimoveis/foto3433.com.br,Light,Cemig
+25,4,37,Casa,77558 Stuart Lane,Zona Oeste,Ceará,Porto Velho,1,8,2,751.49,URL: https://www.izimoveis/foto3219.com.br,Celesc),Cemig
+26,21,31,Casa,4590 Amoth Street,Zona Oeste,Sergipe,Boa Vista,3,7,4,60.83,URL: https://www.izimoveis/foto6495.com.br,Enel,Energisa
+27,22,30,Casa,486 Mallory Pass,Zona Leste,Acre,Campo Grande,5,8,2,50.33,URL: https://www.izimoveis/foto2579.com.br,Energisa,Celesc)
+28,11,53,Casa,0 Division Alley,Zona Sul,Tocantins,Curitiba,4,2,4,160.54,URL: https://www.izimoveis/foto7212.com.br,Neoenergia,Eletrobras
+29,24,60,Apartamento,94336 Shelley Circle,Zona Leste,Espírito Santo,João Pessoa,1,8,4,337.43,URL: https://www.izimoveis/foto2915.com.br,Neoenergia,Neoenergia
+30,8,1,Apartamento,68 Tennyson Drive,Zona Sul,Bahia,Natal,3,1,3,927.07,URL: https://www.izimoveis/foto6198.com.br,Cemig,Elektro
+31,5,44,Apartamento,5 Forest Run Plaza,Zona Leste,Roraima,Aracaju,3,2,1,661.35,URL: https://www.izimoveis/foto7222.com.br,Eletrobras,Neoenergia
+32,30,98,Apartamento,94 Golf Course Crossing,Zona Sul,Roraima,Fortaleza,1,6,2,942.37,URL: https://www.izimoveis/foto1404.com.br,Elektro,Energisa
+33,1,91,Casa,4619 Fair Oaks Terrace,Zona Norte,Pará,Teresina,1,2,5,637.96,URL: https://www.izimoveis/foto4457.com.br,Eletrobras,Cemig
+34,30,47,Casa,214 Acker Street,Zona Leste,Espírito Santo,São Paulo,5,7,5,709.92,URL: https://www.izimoveis/foto4197.com.br,Light,Energisa
+35,22,59,Apartamento,5229 Elgar Way,Zona Oeste,Minas Gerais,Porto Velho,3,8,3,252.33,URL: https://www.izimoveis/foto1105.com.br,Eletrobras,CPFL Energia
+36,19,59,Casa,4 Westport Road,Zona Leste,São Paulo,Belém,1,6,4,241.19,URL: https://www.izimoveis/foto2137.com.br,Elektro,Neoenergia
+37,18,97,Apartamento,3 Montana Place,Zona Leste,Rondônia,Fortaleza,5,7,3,583.95,URL: https://www.izimoveis/foto3998.com.br,Eletrobras,Energética
+38,12,14,Apartamento,4 Blue Bill Park Court,Zona Leste,Rio Grande do Sul,Salvador,1,3,1,324.57,URL: https://www.izimoveis/foto5857.com.br,Cemig,Cemig
+39,27,42,Casa,89 Talisman Terrace,Zona Norte,Rondônia,Manaus,6,6,3,977.19,URL: https://www.izimoveis/foto0088.com.br,Enel,Elektro
+40,22,23,Apartamento,29 Magdeline Trail,Zona Norte,Rio de Janeiro,Florianópolis,6,2,2,284.09,URL: https://www.izimoveis/foto1941.com.br,Copel,Celesc)
+41,8,25,Casa,791 Park Meadow Parkway,Zona Leste,Goiás,Belo Horizonte,2,2,1,769.48,URL: https://www.izimoveis/foto6361.com.br,Eletrobras,Light
+42,18,10,Apartamento,77704 Columbus Junction,Zona Leste,Rondônia,Cuiabá,5,5,3,467.89,URL: https://www.izimoveis/foto9281.com.br,Copel,Cemig
+43,11,81,Casa,632 Anniversary Crossing,Zona Sul,Pará,Belém,2,8,4,912.24,URL: https://www.izimoveis/foto6987.com.br,Celesc),Cemig
+44,23,26,Apartamento,01 Burning Wood Place,Zona Leste,Paraná,Macapá,6,5,1,817.29,URL: https://www.izimoveis/foto2934.com.br,Light,Copel
+45,16,19,Apartamento,0 Anhalt Parkway,Zona Sul,Rio Grande do Norte,Palmas,2,8,5,503.19,URL: https://www.izimoveis/foto0613.com.br,Neoenergia,Celesc)
+46,29,71,Apartamento,4 Rigney Court,Zona Leste,Sergipe,Porto Alegre,7,7,1,789.11,URL: https://www.izimoveis/foto4343.com.br,Energética,CPFL Energia
+47,29,50,Casa,52646 Carioca Way,Zona Sul,Paraná,Florianópolis,7,5,4,602.05,URL: https://www.izimoveis/foto9267.com.br,Cemig,Energisa
+48,2,90,Apartamento,428 Tomscot Park,Zona Oeste,Maranhão,Belo Horizonte,5,6,1,745.18,URL: https://www.izimoveis/foto1543.com.br,Elektro,Light
+49,3,33,Apartamento,9 Farwell Court,Zona Norte,Piauí,João Pessoa,7,4,5,519.29,URL: https://www.izimoveis/foto5438.com.br,Light,Eletrobras
+50,20,16,Casa,3 Oriole Trail,Zona Leste,Rondônia,Palmas,6,3,2,582.77,URL: https://www.izimoveis/foto3578.com.br,Enel,Energética
+51,11,85,Apartamento,99 Rowland Trail,Zona Leste,Paraná,Salvador,7,2,4,909.95,URL: https://www.izimoveis/foto4414.com.br,Energética,Enel
+52,7,44,Casa,43 Corry Road,Zona Sul,Paraná,Belo Horizonte,2,6,3,425.7,URL: https://www.izimoveis/foto9524.com.br,Energisa,Energisa
+53,6,60,Casa,70 Oneill Place,Zona Oeste,Rio Grande do Sul,Porto Alegre,2,4,2,460.86,URL: https://www.izimoveis/foto4107.com.br,Energisa,Enel
+54,11,14,Apartamento,3 Charing Cross Trail,Zona Norte,Pernambuco,Cuiabá,2,8,1,102.92,URL: https://www.izimoveis/foto9458.com.br,Eletrobras,Elektro
+55,14,85,Casa,18 Brentwood Way,Zona Norte,Goiás,Manaus,5,6,1,834.42,URL: https://www.izimoveis/foto8000.com.br,Energética,Celesc)
+56,10,22,Apartamento,67 American Ash Alley,Zona Sul,São Paulo,Brasília,7,5,2,315.37,URL: https://www.izimoveis/foto1354.com.br,Light,Eletrobras
+57,25,74,Casa,21 Springview Lane,Zona Oeste,Goiás,Belém,4,1,1,505.36,URL: https://www.izimoveis/foto6930.com.br,Energisa,Cemig
+58,13,21,Casa,942 Moland Center,Zona Leste,Minas Gerais,Teresina,3,1,2,975.59,URL: https://www.izimoveis/foto9680.com.br,CPFL Energia,Enel
+59,1,88,Casa,72 Colorado Avenue,Zona Leste,Sergipe,João Pessoa,7,4,3,154.75,URL: https://www.izimoveis/foto1534.com.br,Celesc),Copel
+60,27,78,Apartamento,41 Sommers Way,Zona Oeste,São Paulo,Goiânia,3,3,5,512.9,URL: https://www.izimoveis/foto7999.com.br,Energética,Eletrobras
+61,8,97,Apartamento,5 Lakewood Point,Zona Leste,Rondônia,Brasília,2,5,1,362.84,URL: https://www.izimoveis/foto6025.com.br,Elektro,Enel
+62,13,41,Casa,02 Macpherson Circle,Zona Leste,Mato Grosso,Cuiabá,1,6,1,932.98,URL: https://www.izimoveis/foto3092.com.br,Eletrobras,Eletrobras
+63,30,63,Apartamento,372 Miller Road,Zona Oeste,Tocantins,Vitória,4,7,1,353.61,URL: https://www.izimoveis/foto9769.com.br,Cemig,Cemig
+64,11,76,Casa,05 Manley Lane,Zona Oeste,Mato Grosso,Boa Vista,4,4,5,414.38,URL: https://www.izimoveis/foto1095.com.br,CPFL Energia,CPFL Energia
+65,16,85,Casa,341 Nancy Alley,Zona Oeste,Maranhão,Belém,2,8,1,909.5,URL: https://www.izimoveis/foto4939.com.br,CPFL Energia,Energisa
+66,1,75,Apartamento,06 Basil Terrace,Zona Sul,Santa Catarina,São Luís,2,3,2,957.06,URL: https://www.izimoveis/foto7410.com.br,Energisa,Eletrobras
+67,8,84,Casa,9 Redwing Park,Zona Oeste,Mato Grosso do Sul,Manaus,5,6,5,904.62,URL: https://www.izimoveis/foto2301.com.br,Neoenergia,Neoenergia
+68,28,11,Apartamento,825 Warbler Avenue,Zona Sul,Ceará,Cuiabá,7,8,4,291.97,URL: https://www.izimoveis/foto6240.com.br,Eletrobras,Energisa
+69,12,45,Apartamento,3163 Prairie Rose Drive,Zona Sul,Tocantins,Salvador,3,6,5,495.04,URL: https://www.izimoveis/foto8415.com.br,Enel,Celesc)
+70,10,62,Casa,1253 Vermont Alley,Zona Sul,Bahia,Vitória,2,7,5,855.18,URL: https://www.izimoveis/foto9376.com.br,Copel,CPFL Energia
+71,6,13,Casa,1384 Reindahl Alley,Zona Sul,Maranhão,Palmas,2,1,2,517.75,URL: https://www.izimoveis/foto0429.com.br,Enel,Cemig
+72,17,96,Casa,32 Del Sol Terrace,Zona Leste,São Paulo,Salvador,6,1,4,982.19,URL: https://www.izimoveis/foto1598.com.br,Energética,Eletrobras
+73,28,22,Apartamento,15 Arkansas Lane,Zona Leste,Paraíba,Aracaju,5,7,1,839.58,URL: https://www.izimoveis/foto5121.com.br,Energética,Neoenergia
+74,25,33,Casa,420 Dixon Parkway,Zona Sul,São Paulo,Boa Vista,5,5,1,260.68,URL: https://www.izimoveis/foto2292.com.br,Neoenergia,Energisa
+75,5,17,Casa,1105 Anthes Road,Zona Norte,Goiás,Brasília,7,1,1,692.25,URL: https://www.izimoveis/foto5584.com.br,Celesc),Enel
+76,1,79,Apartamento,6 Dovetail Pass,Zona Sul,Roraima,Vitória,5,4,4,228.3,URL: https://www.izimoveis/foto4553.com.br,Elektro,Neoenergia
+77,20,56,Apartamento,3 Welch Road,Zona Norte,Acre,Macapá,6,5,3,431.71,URL: https://www.izimoveis/foto2279.com.br,Light,Light
+78,23,28,Casa,866 Loeprich Junction,Zona Oeste,Distrito Federal,Belém,2,5,1,587.21,URL: https://www.izimoveis/foto1665.com.br,Elektro,Enel
+79,6,67,Apartamento,36 Barby Center,Zona Norte,Rio Grande do Sul,Goiânia,3,4,5,117.18,URL: https://www.izimoveis/foto8224.com.br,Energisa,Cemig
+80,5,39,Apartamento,01359 Ramsey Road,Zona Leste,Rio de Janeiro,Teresina,3,5,2,184.48,URL: https://www.izimoveis/foto5800.com.br,Energética,Neoenergia
+81,24,92,Casa,0 Walton Parkway,Zona Sul,Maranhão,Manaus,3,3,4,330.34,URL: https://www.izimoveis/foto7569.com.br,Energética,Eletrobras
+82,5,44,Apartamento,226 Clarendon Center,Zona Leste,Rio Grande do Norte,Salvador,5,3,1,339.97,URL: https://www.izimoveis/foto9997.com.br,Neoenergia,Cemig
+83,25,83,Casa,1 Westridge Road,Zona Norte,Amazonas,Macapá,5,2,1,869.06,URL: https://www.izimoveis/foto5405.com.br,Neoenergia,Celesc)
+84,5,27,Casa,3871 Morrow Drive,Zona Leste,Distrito Federal,Porto Velho,7,2,1,920.17,URL: https://www.izimoveis/foto9924.com.br,Energisa,Cemig
+85,18,75,Apartamento,0182 Moose Court,Zona Oeste,Tocantins,Campo Grande,4,3,3,944.57,URL: https://www.izimoveis/foto2024.com.br,Cemig,Celesc)
+86,15,37,Casa,3 Elgar Court,Zona Norte,Paraná,Natal,5,6,2,125.81,URL: https://www.izimoveis/foto3953.com.br,Elektro,Cemig
+87,17,81,Apartamento,74376 Dapin Drive,Zona Leste,Ceará,Belém,5,4,4,347.2,URL: https://www.izimoveis/foto9900.com.br,Energisa,Copel
+88,24,13,Casa,5772 Meadow Ridge Alley,Zona Leste,São Paulo,Manaus,3,2,5,886.74,URL: https://www.izimoveis/foto7274.com.br,Copel,Cemig
+89,21,84,Casa,36 Bluestem Trail,Zona Leste,Sergipe,Boa Vista,3,3,3,276.16,URL: https://www.izimoveis/foto9574.com.br,Light,Energética
+90,28,65,Casa,51 Browning Crossing,Zona Leste,Rio Grande do Sul,Fortaleza,4,3,4,775.87,URL: https://www.izimoveis/foto6529.com.br,Enel,Light
+91,20,91,Casa,5880 Susan Alley,Zona Sul,Paraíba,São Luís,2,2,4,282.98,URL: https://www.izimoveis/foto0484.com.br,Copel,Energética
+92,6,95,Apartamento,19354 Browning Avenue,Zona Oeste,Goiás,Rio de Janeiro,3,3,1,150.97,URL: https://www.izimoveis/foto7744.com.br,Enel,Energética
+93,27,88,Casa,4 Pierstorff Drive,Zona Norte,Acre,Porto Velho,6,5,2,215.61,URL: https://www.izimoveis/foto3671.com.br,Celesc),Energisa
+94,13,26,Casa,208 Pine View Center,Zona Leste,Alagoas,São Luís,3,8,3,199.56,URL: https://www.izimoveis/foto4321.com.br,Celesc),Celesc)
+95,16,20,Apartamento,745 Summer Ridge Way,Zona Sul,Rio Grande do Norte,Belo Horizonte,1,5,4,343.34,URL: https://www.izimoveis/foto6358.com.br,Elektro,Energética
+96,22,58,Apartamento,5611 Fuller Junction,Zona Leste,Rondônia,Florianópolis,6,4,3,991.44,URL: https://www.izimoveis/foto4320.com.br,CPFL Energia,CPFL Energia
+97,3,47,Apartamento,7 5th Park,Zona Norte,Rio Grande do Sul,Belo Horizonte,4,6,3,561.42,URL: https://www.izimoveis/foto4128.com.br,Cemig,Elektro
+98,9,83,Casa,3984 Manley Road,Zona Oeste,Amazonas,Brasília,2,2,4,409.27,URL: https://www.izimoveis/foto9048.com.br,Enel,Copel
+99,6,28,Apartamento,1 Ronald Regan Park,Zona Leste,Alagoas,Cuiabá,6,2,3,536.0,URL: https://www.izimoveis/foto2728.com.br,Eletrobras,Elektro
+100,1,32,Casa,5 Meadow Ridge Center,Zona Norte,Alagoas,Manaus,7,4,3,277.54,URL: https://www.izimoveis/foto0416.com.br,Light,Elektro
+101,15,30,Apartamento,13046 Prairie Rose Point,Zona Leste,Distrito Federal,Vitória,3,6,1,881.99,URL: https://www.izimoveis/foto3685.com.br,Neoenergia,Cemig
+102,7,59,Apartamento,52 Old Shore Park,Zona Norte,Alagoas,Macapá,6,3,3,148.97,URL: https://www.izimoveis/foto8194.com.br,Energisa,Energética
+103,23,1,Casa,7252 Bunker Hill Pass,Zona Sul,Maranhão,Recife,6,8,5,733.27,URL: https://www.izimoveis/foto1715.com.br,Celesc),Neoenergia
+104,18,47,Casa,06 Lakeland Trail,Zona Sul,Espírito Santo,Palmas,6,4,1,597.28,URL: https://www.izimoveis/foto8830.com.br,Eletrobras,CPFL Energia
+105,16,66,Apartamento,59 Moland Circle,Zona Norte,Ceará,Porto Velho,1,7,2,542.13,URL: https://www.izimoveis/foto5495.com.br,Celesc),Energisa
+106,30,6,Casa,7102 Fieldstone Trail,Zona Sul,Tocantins,Curitiba,3,4,2,416.59,URL: https://www.izimoveis/foto6567.com.br,Elektro,Neoenergia
+107,28,94,Casa,15 Cardinal Circle,Zona Leste,Piauí,Belo Horizonte,4,4,4,370.33,URL: https://www.izimoveis/foto9404.com.br,Energisa,Energética
+108,27,87,Casa,985 Everett Court,Zona Oeste,Bahia,Belém,5,6,2,308.91,URL: https://www.izimoveis/foto6116.com.br,Light,Energética
+109,12,38,Casa,4 Mesta Point,Zona Sul,Tocantins,Goiânia,2,3,5,199.16,URL: https://www.izimoveis/foto3083.com.br,Neoenergia,Energética
+110,8,54,Casa,2440 Prairieview Lane,Zona Leste,Rondônia,Brasília,6,8,2,549.89,URL: https://www.izimoveis/foto9223.com.br,Copel,Celesc)
+111,19,82,Apartamento,13876 Granby Lane,Zona Sul,Ceará,Porto Alegre,1,3,1,998.75,URL: https://www.izimoveis/foto7903.com.br,Copel,Light
+112,11,43,Apartamento,90498 Farwell Hill,Zona Norte,Amazonas,Palmas,3,4,3,568.87,URL: https://www.izimoveis/foto5853.com.br,Energética,Light
+113,27,8,Apartamento,32 Leroy Place,Zona Sul,Rio Grande do Norte,Rio de Janeiro,6,7,4,707.07,URL: https://www.izimoveis/foto1742.com.br,Neoenergia,Energética
+114,28,45,Casa,54 Maryland Court,Zona Norte,Mato Grosso,Porto Alegre,1,4,3,288.89,URL: https://www.izimoveis/foto3678.com.br,Celesc),Energética
+115,29,29,Apartamento,42 Monument Crossing,Zona Leste,Maranhão,Brasília,5,6,4,94.87,URL: https://www.izimoveis/foto7668.com.br,Energisa,Light
+116,3,63,Apartamento,9627 Service Lane,Zona Sul,Rondônia,Porto Alegre,6,7,1,686.1,URL: https://www.izimoveis/foto5627.com.br,Celesc),Eletrobras
+117,22,89,Apartamento,46 Lakewood Pass,Zona Norte,Distrito Federal,Boa Vista,5,2,3,283.73,URL: https://www.izimoveis/foto3563.com.br,Elektro,Elektro
+118,15,2,Casa,55332 Porter Street,Zona Oeste,Rio Grande do Sul,Cuiabá,1,8,1,905.0,URL: https://www.izimoveis/foto2021.com.br,CPFL Energia,CPFL Energia
+119,10,20,Apartamento,39198 Glendale Street,Zona Norte,Acre,Florianópolis,1,3,4,800.83,URL: https://www.izimoveis/foto9555.com.br,Neoenergia,Cemig
+120,12,78,Apartamento,6 Myrtle Circle,Zona Oeste,Ceará,Porto Velho,2,1,4,883.46,URL: https://www.izimoveis/foto8367.com.br,Cemig,Celesc)
+121,25,52,Casa,72029 Basil Drive,Zona Norte,Bahia,Curitiba,2,7,3,289.34,URL: https://www.izimoveis/foto3231.com.br,Elektro,Energética
+122,2,82,Apartamento,73255 Harbort Drive,Zona Sul,Pernambuco,João Pessoa,1,6,2,935.88,URL: https://www.izimoveis/foto0297.com.br,Celesc),Energética
+123,7,98,Apartamento,224 Bultman Street,Zona Oeste,Piauí,Natal,5,3,1,407.82,URL: https://www.izimoveis/foto8055.com.br,Copel,CPFL Energia
+124,18,55,Casa,60616 Fordem Hill,Zona Norte,Acre,Palmas,6,6,2,837.14,URL: https://www.izimoveis/foto6209.com.br,Celesc),Light
+125,10,8,Casa,5 Saint Paul Pass,Zona Leste,Paraná,Porto Alegre,5,4,4,124.0,URL: https://www.izimoveis/foto6823.com.br,Cemig,Energisa
+126,15,47,Apartamento,2 Anthes Hill,Zona Norte,Ceará,Belo Horizonte,4,6,5,210.34,URL: https://www.izimoveis/foto6990.com.br,Energética,Energisa
+127,20,31,Casa,5 Carioca Court,Zona Norte,Rio de Janeiro,Florianópolis,6,5,1,721.33,URL: https://www.izimoveis/foto8934.com.br,Energética,Celesc)
+128,26,42,Apartamento,1 Hallows Terrace,Zona Norte,Mato Grosso,Vitória,2,6,4,823.99,URL: https://www.izimoveis/foto5573.com.br,Cemig,CPFL Energia
+129,2,75,Casa,7272 Gina Avenue,Zona Leste,Sergipe,Manaus,2,2,2,579.04,URL: https://www.izimoveis/foto6560.com.br,Light,Cemig
+130,27,85,Casa,757 Fulton Plaza,Zona Oeste,Alagoas,São Luís,5,6,3,924.95,URL: https://www.izimoveis/foto1899.com.br,Enel,Neoenergia
+131,30,72,Casa,82436 Columbus Crossing,Zona Oeste,Mato Grosso,Porto Alegre,5,6,3,201.17,URL: https://www.izimoveis/foto1796.com.br,Energisa,Energética
+132,11,16,Casa,1829 Darwin Avenue,Zona Sul,São Paulo,João Pessoa,6,7,4,341.73,URL: https://www.izimoveis/foto1381.com.br,Copel,Copel
+133,19,63,Apartamento,638 Sachtjen Court,Zona Oeste,Tocantins,Palmas,6,2,2,580.98,URL: https://www.izimoveis/foto9653.com.br,Enel,Cemig
+134,18,23,Apartamento,20 Valley Edge Plaza,Zona Sul,Goiás,Palmas,3,3,4,102.06,URL: https://www.izimoveis/foto1647.com.br,Energética,Energisa
+135,22,3,Casa,86 Ruskin Parkway,Zona Oeste,Maranhão,São Luís,7,4,5,192.69,URL: https://www.izimoveis/foto1518.com.br,Eletrobras,Enel
+136,8,10,Casa,81897 Bay Circle,Zona Sul,Mato Grosso,Belém,1,4,4,282.28,URL: https://www.izimoveis/foto9936.com.br,Eletrobras,Eletrobras
+137,23,73,Apartamento,16 Schurz Street,Zona Oeste,Amapá,João Pessoa,7,4,5,374.94,URL: https://www.izimoveis/foto4423.com.br,Enel,Energisa
+138,28,43,Apartamento,67 Beilfuss Plaza,Zona Norte,Mato Grosso,Florianópolis,5,5,2,794.61,URL: https://www.izimoveis/foto4126.com.br,Light,CPFL Energia
+139,1,40,Apartamento,7090 Bonner Place,Zona Leste,Maranhão,São Luís,5,8,3,560.21,URL: https://www.izimoveis/foto2967.com.br,Copel,Copel
+140,10,1,Apartamento,73458 Moose Circle,Zona Oeste,São Paulo,São Luís,6,5,3,899.5,URL: https://www.izimoveis/foto4306.com.br,Cemig,Elektro
+141,24,14,Apartamento,39 Mccormick Junction,Zona Leste,Tocantins,Cuiabá,7,6,4,659.51,URL: https://www.izimoveis/foto0032.com.br,Cemig,Cemig
+142,26,86,Casa,6 Spenser Junction,Zona Sul,Piauí,Aracaju,6,8,2,895.38,URL: https://www.izimoveis/foto7340.com.br,Copel,CPFL Energia
+143,22,71,Casa,50656 Manufacturers Street,Zona Leste,Minas Gerais,Rio de Janeiro,7,6,2,126.21,URL: https://www.izimoveis/foto6751.com.br,Cemig,Celesc)
+144,26,20,Casa,43328 Menomonie Point,Zona Oeste,Rondônia,São Paulo,5,2,1,50.75,URL: https://www.izimoveis/foto3707.com.br,Copel,Eletrobras
+145,7,68,Casa,75 Spenser Avenue,Zona Norte,Amazonas,Goiânia,7,3,5,204.01,URL: https://www.izimoveis/foto7085.com.br,Elektro,Cemig
+146,30,61,Casa,969 Eastwood Place,Zona Norte,Santa Catarina,Cuiabá,1,3,2,304.95,URL: https://www.izimoveis/foto1773.com.br,Elektro,Enel
+147,9,39,Casa,80 Union Drive,Zona Sul,Rio Grande do Norte,Teresina,5,7,5,756.69,URL: https://www.izimoveis/foto6687.com.br,Celesc),Eletrobras
+148,19,95,Casa,51347 Towne Crossing,Zona Oeste,Paraná,Belo Horizonte,2,3,1,964.0,URL: https://www.izimoveis/foto4113.com.br,Energisa,Light
+149,17,2,Casa,3332 Northport Point,Zona Oeste,Acre,Goiânia,5,5,3,711.06,URL: https://www.izimoveis/foto6204.com.br,Enel,Copel
+150,18,36,Casa,4912 American Ash Circle,Zona Oeste,Rio Grande do Norte,Brasília,6,8,3,611.7,URL: https://www.izimoveis/foto2815.com.br,CPFL Energia,Energética
+151,3,15,Apartamento,0651 Larry Plaza,Zona Leste,Distrito Federal,Campo Grande,4,7,3,596.24,URL: https://www.izimoveis/foto1690.com.br,Eletrobras,Enel
+152,30,61,Casa,0 Stoughton Parkway,Zona Leste,Goiás,Campo Grande,6,3,1,113.17,URL: https://www.izimoveis/foto4218.com.br,Elektro,Elektro
+153,4,77,Casa,0006 Buhler Avenue,Zona Norte,São Paulo,Boa Vista,7,5,2,137.22,URL: https://www.izimoveis/foto0357.com.br,CPFL Energia,Celesc)
+154,19,3,Apartamento,98754 Springview Junction,Zona Oeste,Alagoas,Macapá,5,5,3,756.06,URL: https://www.izimoveis/foto7300.com.br,Energética,Cemig
+155,24,9,Apartamento,47 Lawn Parkway,Zona Norte,Santa Catarina,João Pessoa,7,5,1,672.99,URL: https://www.izimoveis/foto5582.com.br,Neoenergia,CPFL Energia
+156,30,59,Apartamento,10 American Avenue,Zona Leste,Bahia,Brasília,3,5,1,390.33,URL: https://www.izimoveis/foto5304.com.br,CPFL Energia,Cemig
+157,27,85,Casa,08281 Riverside Avenue,Zona Norte,Paraíba,Salvador,1,3,3,479.64,URL: https://www.izimoveis/foto8964.com.br,Neoenergia,Energisa
+158,28,79,Casa,7257 Service Parkway,Zona Leste,São Paulo,Cuiabá,7,3,1,600.35,URL: https://www.izimoveis/foto0131.com.br,CPFL Energia,CPFL Energia
+159,1,26,Casa,833 Prairieview Crossing,Zona Norte,Minas Gerais,Belo Horizonte,4,6,4,960.77,URL: https://www.izimoveis/foto9231.com.br,Energética,Eletrobras
+160,22,61,Casa,9123 Rigney Road,Zona Oeste,Santa Catarina,Florianópolis,2,3,4,866.03,URL: https://www.izimoveis/foto3143.com.br,Energética,Cemig
+161,9,7,Casa,45 Ludington Lane,Zona Oeste,Roraima,Porto Velho,7,8,3,448.05,URL: https://www.izimoveis/foto6507.com.br,Neoenergia,Celesc)
+162,22,65,Casa,7 Carey Trail,Zona Sul,Roraima,São Luís,3,7,4,957.06,URL: https://www.izimoveis/foto6211.com.br,Eletrobras,Elektro
+163,19,18,Apartamento,250 Hazelcrest Park,Zona Sul,Rondônia,Curitiba,3,1,4,864.83,URL: https://www.izimoveis/foto1051.com.br,Elektro,Copel
+164,15,66,Apartamento,256 Commercial Way,Zona Leste,Alagoas,Porto Alegre,3,6,4,696.39,URL: https://www.izimoveis/foto6338.com.br,Neoenergia,Light
+165,14,21,Apartamento,69 Shelley Pass,Zona Oeste,Pernambuco,Salvador,6,2,2,700.07,URL: https://www.izimoveis/foto7049.com.br,Eletrobras,Copel
+166,20,56,Apartamento,90 Gerald Court,Zona Norte,Paraná,Goiânia,7,6,1,894.32,URL: https://www.izimoveis/foto7791.com.br,Eletrobras,Energisa
+167,13,18,Apartamento,057 Toban Center,Zona Oeste,Rio de Janeiro,Recife,1,8,2,194.19,URL: https://www.izimoveis/foto6573.com.br,Energisa,Light
+168,12,11,Apartamento,872 Banding Alley,Zona Oeste,Bahia,Goiânia,7,6,5,300.9,URL: https://www.izimoveis/foto3346.com.br,Neoenergia,Copel
+169,14,32,Casa,44624 Moulton Center,Zona Norte,Distrito Federal,Goiânia,5,7,3,370.66,URL: https://www.izimoveis/foto0665.com.br,Light,Cemig
+170,22,88,Apartamento,4 Fairview Drive,Zona Leste,Tocantins,João Pessoa,5,5,2,863.27,URL: https://www.izimoveis/foto0079.com.br,CPFL Energia,Elektro
+171,3,86,Apartamento,01 Browning Point,Zona Leste,Goiás,São Paulo,5,3,5,235.16,URL: https://www.izimoveis/foto6683.com.br,CPFL Energia,Enel
+172,2,10,Casa,83 Lukken Terrace,Zona Oeste,Maranhão,Brasília,7,1,1,605.69,URL: https://www.izimoveis/foto4251.com.br,CPFL Energia,Celesc)
+173,14,42,Apartamento,6048 Northfield Park,Zona Sul,Sergipe,Belo Horizonte,3,5,2,297.05,URL: https://www.izimoveis/foto2873.com.br,Cemig,Neoenergia
+174,25,38,Casa,055 Blue Bill Park Crossing,Zona Sul,Santa Catarina,João Pessoa,6,3,4,535.0,URL: https://www.izimoveis/foto2531.com.br,Elektro,Light
+175,26,90,Apartamento,06158 Heffernan Court,Zona Sul,Piauí,Curitiba,7,2,4,989.0,URL: https://www.izimoveis/foto8124.com.br,CPFL Energia,Energisa
+176,30,39,Apartamento,59 Eagan Circle,Zona Oeste,São Paulo,Boa Vista,7,1,1,639.35,URL: https://www.izimoveis/foto0621.com.br,Energética,Neoenergia
+177,11,54,Apartamento,93 Harbort Parkway,Zona Oeste,Alagoas,Rio de Janeiro,7,2,1,891.7,URL: https://www.izimoveis/foto3296.com.br,Energisa,Enel
+178,19,44,Casa,5056 Pierstorff Trail,Zona Norte,Rondônia,Brasília,1,5,2,856.2,URL: https://www.izimoveis/foto4753.com.br,Energética,Energisa
+179,9,49,Apartamento,2 Golf Course Avenue,Zona Sul,São Paulo,Florianópolis,2,5,4,762.96,URL: https://www.izimoveis/foto7989.com.br,Celesc),Light
+180,29,78,Casa,89126 Center Parkway,Zona Norte,Sergipe,Porto Velho,3,6,4,82.92,URL: https://www.izimoveis/foto0717.com.br,Light,Eletrobras
+181,21,50,Apartamento,8 Farwell Lane,Zona Oeste,Mato Grosso do Sul,João Pessoa,6,3,4,354.8,URL: https://www.izimoveis/foto5569.com.br,Cemig,CPFL Energia
+182,25,64,Casa,525 Merchant Center,Zona Norte,Amazonas,Boa Vista,5,1,1,821.25,URL: https://www.izimoveis/foto6162.com.br,Eletrobras,Neoenergia
+183,27,97,Apartamento,586 Merry Center,Zona Oeste,Mato Grosso,Recife,2,3,5,780.89,URL: https://www.izimoveis/foto5823.com.br,Eletrobras,Celesc)
+184,22,23,Casa,13107 Acker Drive,Zona Oeste,Bahia,Macapá,5,5,5,882.98,URL: https://www.izimoveis/foto3482.com.br,Enel,Eletrobras
+185,24,19,Apartamento,62 Raven Lane,Zona Sul,Goiás,Brasília,1,7,3,152.85,URL: https://www.izimoveis/foto9409.com.br,Eletrobras,Enel
+186,1,83,Apartamento,8 Center Trail,Zona Oeste,Pernambuco,Cuiabá,6,1,5,960.63,URL: https://www.izimoveis/foto5416.com.br,Celesc),Neoenergia
+187,9,83,Casa,70 Starling Road,Zona Leste,Paraíba,Goiânia,7,3,2,720.55,URL: https://www.izimoveis/foto3086.com.br,Celesc),Neoenergia
+188,11,56,Casa,65 Texas Road,Zona Norte,Rio Grande do Sul,Goiânia,2,1,5,820.54,URL: https://www.izimoveis/foto4193.com.br,Energética,Energética
+189,26,84,Apartamento,50 Nobel Parkway,Zona Leste,Mato Grosso do Sul,Porto Velho,5,1,3,647.81,URL: https://www.izimoveis/foto9871.com.br,Copel,Enel
+190,22,78,Apartamento,35567 Basil Circle,Zona Leste,Rio de Janeiro,Belém,1,7,2,752.39,URL: https://www.izimoveis/foto6423.com.br,Celesc),Neoenergia
+191,24,98,Casa,6 Marquette Plaza,Zona Sul,Mato Grosso,Campo Grande,3,4,5,650.24,URL: https://www.izimoveis/foto8136.com.br,Energisa,Neoenergia
+192,4,17,Casa,64 Monterey Circle,Zona Norte,Bahia,Brasília,1,1,2,360.42,URL: https://www.izimoveis/foto7004.com.br,Celesc),Enel
+193,27,20,Casa,113 Lakewood Lane,Zona Norte,Ceará,Manaus,3,8,1,137.0,URL: https://www.izimoveis/foto7626.com.br,Celesc),Elektro
+194,22,7,Apartamento,609 Sachtjen Junction,Zona Leste,Pará,Palmas,3,3,3,584.89,URL: https://www.izimoveis/foto5861.com.br,Cemig,Enel
+195,20,98,Casa,603 Gina Park,Zona Oeste,Sergipe,Macapá,6,6,2,632.48,URL: https://www.izimoveis/foto8284.com.br,Neoenergia,Neoenergia
+196,25,54,Casa,36994 Mallory Way,Zona Sul,Espírito Santo,São Luís,1,5,2,297.96,URL: https://www.izimoveis/foto1658.com.br,Celesc),Celesc)
+197,4,3,Apartamento,02 Gina Way,Zona Norte,Maranhão,Porto Velho,3,3,4,714.1,URL: https://www.izimoveis/foto7857.com.br,Cemig,Enel
+198,22,33,Apartamento,05862 Roxbury Alley,Zona Oeste,Pernambuco,Palmas,7,5,2,811.51,URL: https://www.izimoveis/foto0869.com.br,Copel,Energisa
+199,10,3,Casa,69 8th Center,Zona Sul,Pará,Cuiabá,7,8,4,406.8,URL: https://www.izimoveis/foto6679.com.br,Energisa,Celesc)
+200,27,3,Casa,2228 Blackbird Drive,Zona Norte,Sergipe,Cuiabá,3,6,4,555.44,URL: https://www.izimoveis/foto9812.com.br,Energisa,Elektro
+201,13,75,Casa,38 Jana Parkway,Zona Leste,Alagoas,Manaus,7,5,4,634.98,URL: https://www.izimoveis/foto9667.com.br,Cemig,Cemig
+202,4,16,Apartamento,805 Emmet Junction,Zona Leste,Acre,Fortaleza,3,8,1,460.38,URL: https://www.izimoveis/foto2308.com.br,Celesc),Neoenergia
+203,11,84,Apartamento,49 Trailsway Point,Zona Leste,Pará,Vitória,2,6,5,490.06,URL: https://www.izimoveis/foto7336.com.br,Eletrobras,Celesc)
+204,6,76,Apartamento,128 Maryland Circle,Zona Oeste,Distrito Federal,Boa Vista,6,3,1,555.18,URL: https://www.izimoveis/foto3867.com.br,CPFL Energia,Energética
+205,22,23,Apartamento,68817 Dexter Drive,Zona Norte,Mato Grosso do Sul,Belém,6,7,5,275.5,URL: https://www.izimoveis/foto7583.com.br,Eletrobras,Celesc)
+206,1,35,Apartamento,6 Bashford Court,Zona Oeste,Tocantins,Cuiabá,5,7,4,743.82,URL: https://www.izimoveis/foto5914.com.br,Cemig,Light
+207,24,4,Apartamento,5527 Red Cloud Point,Zona Leste,Tocantins,Fortaleza,7,4,2,229.94,URL: https://www.izimoveis/foto9738.com.br,Enel,Elektro
+208,14,81,Casa,64 Pankratz Terrace,Zona Norte,Rio de Janeiro,Boa Vista,4,1,4,198.13,URL: https://www.izimoveis/foto9411.com.br,Celesc),Cemig
+209,1,16,Apartamento,80 Delaware Alley,Zona Norte,Roraima,Salvador,1,5,1,607.74,URL: https://www.izimoveis/foto8829.com.br,Enel,Enel
+210,4,82,Casa,500 Continental Pass,Zona Norte,Minas Gerais,Porto Velho,6,8,4,717.6,URL: https://www.izimoveis/foto3071.com.br,Cemig,Energisa
+211,18,4,Apartamento,9 Jenifer Place,Zona Norte,Pernambuco,Palmas,1,5,3,979.76,URL: https://www.izimoveis/foto2486.com.br,Enel,Neoenergia
+212,18,39,Apartamento,757 Melody Pass,Zona Oeste,Rondônia,Fortaleza,1,5,1,415.11,URL: https://www.izimoveis/foto9180.com.br,Eletrobras,Elektro
+213,30,71,Apartamento,9 Brickson Park Drive,Zona Leste,Maranhão,Boa Vista,6,5,2,723.43,URL: https://www.izimoveis/foto3608.com.br,Eletrobras,Elektro
+214,16,41,Casa,4 Coolidge Center,Zona Leste,Piauí,Fortaleza,6,6,1,952.59,URL: https://www.izimoveis/foto6675.com.br,Celesc),Copel
+215,10,48,Apartamento,522 Farwell Avenue,Zona Sul,Bahia,João Pessoa,4,2,4,823.26,URL: https://www.izimoveis/foto8868.com.br,Eletrobras,CPFL Energia
+216,21,21,Apartamento,477 Stuart Circle,Zona Norte,Acre,Salvador,4,3,1,913.28,URL: https://www.izimoveis/foto7679.com.br,CPFL Energia,Energética
+217,29,71,Apartamento,46 Wayridge Alley,Zona Norte,Roraima,Curitiba,5,6,1,438.19,URL: https://www.izimoveis/foto0837.com.br,Enel,Copel
+218,22,43,Casa,029 Kennedy Terrace,Zona Oeste,São Paulo,Rio de Janeiro,7,5,5,908.9,URL: https://www.izimoveis/foto7476.com.br,Neoenergia,Cemig
+219,18,37,Apartamento,25 Packers Street,Zona Sul,Pernambuco,Recife,4,1,5,798.37,URL: https://www.izimoveis/foto5298.com.br,Light,Neoenergia
+220,7,85,Casa,35965 Lotheville Avenue,Zona Leste,Rondônia,Recife,2,5,4,205.55,URL: https://www.izimoveis/foto4139.com.br,Neoenergia,Elektro
+221,12,5,Apartamento,6107 Stang Junction,Zona Oeste,Espírito Santo,Brasília,3,1,4,380.88,URL: https://www.izimoveis/foto0462.com.br,CPFL Energia,Enel
+222,29,33,Casa,23 Havey Crossing,Zona Oeste,Bahia,Boa Vista,7,2,3,842.49,URL: https://www.izimoveis/foto5351.com.br,Neoenergia,Energética
+223,3,47,Apartamento,7 South Alley,Zona Oeste,Rondônia,Palmas,4,2,5,270.01,URL: https://www.izimoveis/foto5024.com.br,Energética,Cemig
+224,3,22,Casa,21 Merry Trail,Zona Leste,Goiás,Rio de Janeiro,6,5,5,810.38,URL: https://www.izimoveis/foto6202.com.br,CPFL Energia,CPFL Energia
+225,26,58,Casa,9468 Lukken Point,Zona Oeste,Roraima,Belo Horizonte,4,5,1,813.36,URL: https://www.izimoveis/foto9988.com.br,Eletrobras,Elektro
+226,9,63,Casa,33720 Melody Pass,Zona Sul,Paraíba,Macapá,4,1,1,906.61,URL: https://www.izimoveis/foto4357.com.br,Celesc),Cemig
+227,8,44,Casa,63 Prentice Street,Zona Norte,Mato Grosso do Sul,Recife,7,8,3,694.59,URL: https://www.izimoveis/foto3192.com.br,Eletrobras,Copel
+228,27,28,Casa,7906 Burning Wood Circle,Zona Leste,Ceará,Cuiabá,4,6,2,551.02,URL: https://www.izimoveis/foto3108.com.br,Energisa,Light
+229,14,16,Casa,823 Dawn Avenue,Zona Oeste,Ceará,São Luís,7,1,5,636.08,URL: https://www.izimoveis/foto5155.com.br,Light,Light
+230,16,41,Apartamento,4084 Lawn Alley,Zona Leste,Pará,Aracaju,4,3,3,73.73,URL: https://www.izimoveis/foto8059.com.br,Enel,Energética
+231,20,54,Casa,90 International Way,Zona Sul,Minas Gerais,Curitiba,6,3,5,809.13,URL: https://www.izimoveis/foto8392.com.br,Neoenergia,Eletrobras
+232,9,18,Casa,03359 Chive Lane,Zona Oeste,Distrito Federal,Belo Horizonte,6,5,2,274.55,URL: https://www.izimoveis/foto1730.com.br,Celesc),Celesc)
+233,2,19,Apartamento,621 Thierer Parkway,Zona Leste,Acre,Rio de Janeiro,1,4,4,166.87,URL: https://www.izimoveis/foto9218.com.br,Celesc),Copel
+234,21,24,Apartamento,03 Hazelcrest Lane,Zona Oeste,Rio de Janeiro,Palmas,6,3,2,140.89,URL: https://www.izimoveis/foto7957.com.br,Copel,Neoenergia
+235,15,91,Casa,24414 Morrow Parkway,Zona Leste,Tocantins,Goiânia,3,7,5,374.99,URL: https://www.izimoveis/foto2602.com.br,Copel,Copel
+236,9,14,Apartamento,83 Northridge Junction,Zona Leste,Ceará,Manaus,5,5,1,141.64,URL: https://www.izimoveis/foto2296.com.br,Neoenergia,Neoenergia
+237,4,93,Casa,98575 Morning Hill,Zona Oeste,Rio de Janeiro,Boa Vista,7,8,3,900.91,URL: https://www.izimoveis/foto7312.com.br,Energisa,Energisa
+238,16,70,Casa,7 Nancy Drive,Zona Norte,Piauí,Rio de Janeiro,4,5,3,801.24,URL: https://www.izimoveis/foto7075.com.br,Copel,Copel
+239,19,23,Casa,5 Trailsway Avenue,Zona Oeste,Rondônia,Macapá,5,8,1,554.3,URL: https://www.izimoveis/foto3091.com.br,Celesc),Eletrobras
+240,18,15,Casa,87322 Burning Wood Avenue,Zona Leste,Sergipe,João Pessoa,2,2,3,540.04,URL: https://www.izimoveis/foto9484.com.br,Cemig,Eletrobras
+241,27,5,Casa,02 Stang Place,Zona Oeste,Mato Grosso,São Paulo,2,3,1,781.12,URL: https://www.izimoveis/foto3385.com.br,Light,Energética
+242,8,77,Casa,85644 Norway Maple Street,Zona Leste,Mato Grosso,Macapá,6,4,4,477.72,URL: https://www.izimoveis/foto1515.com.br,Energisa,Eletrobras
+243,15,39,Casa,90 Heffernan Junction,Zona Norte,Amapá,Macapá,5,7,1,89.32,URL: https://www.izimoveis/foto7676.com.br,Energisa,Eletrobras
+244,6,74,Casa,035 Scott Junction,Zona Leste,Roraima,Fortaleza,1,6,1,530.59,URL: https://www.izimoveis/foto5897.com.br,Cemig,CPFL Energia
+245,20,35,Casa,2 Lakewood Parkway,Zona Oeste,Espírito Santo,Campo Grande,6,4,2,781.6,URL: https://www.izimoveis/foto5759.com.br,Energisa,Enel
+246,12,61,Apartamento,0 Butternut Lane,Zona Norte,Ceará,Belo Horizonte,7,8,1,196.22,URL: https://www.izimoveis/foto3705.com.br,Energisa,Celesc)
+247,20,34,Casa,96569 Bobwhite Trail,Zona Norte,Paraná,Natal,6,6,5,951.46,URL: https://www.izimoveis/foto5260.com.br,Cemig,Energisa
+248,6,11,Apartamento,0 Moland Place,Zona Norte,Alagoas,Salvador,6,6,4,561.68,URL: https://www.izimoveis/foto8283.com.br,Celesc),Neoenergia
+249,15,74,Casa,8828 Brentwood Point,Zona Oeste,Rondônia,São Luís,7,3,4,943.42,URL: https://www.izimoveis/foto0638.com.br,Light,Enel
+250,9,90,Apartamento,51 Merrick Pass,Zona Leste,Bahia,Goiânia,3,2,3,363.33,URL: https://www.izimoveis/foto0484.com.br,Energética,Celesc)
+251,1,40,Casa,278 Westport Terrace,Zona Oeste,Rio Grande do Sul,São Paulo,3,7,3,356.06,URL: https://www.izimoveis/foto6590.com.br,Eletrobras,Eletrobras
+252,9,94,Apartamento,15 Leroy Way,Zona Oeste,Pará,Macapá,7,5,4,891.23,URL: https://www.izimoveis/foto4544.com.br,Energisa,Enel
+253,1,5,Apartamento,378 Mitchell Pass,Zona Norte,Tocantins,Teresina,5,5,4,812.94,URL: https://www.izimoveis/foto9616.com.br,Energisa,Elektro
+254,26,82,Apartamento,801 Fuller Court,Zona Oeste,Amazonas,Florianópolis,3,2,2,412.45,URL: https://www.izimoveis/foto9356.com.br,CPFL Energia,Eletrobras
+255,9,18,Apartamento,25830 Summit Terrace,Zona Oeste,Minas Gerais,Natal,4,3,4,835.85,URL: https://www.izimoveis/foto6167.com.br,Eletrobras,CPFL Energia
+256,17,25,Casa,10076 Ryan Pass,Zona Oeste,Mato Grosso do Sul,Palmas,6,8,5,769.32,URL: https://www.izimoveis/foto7077.com.br,Enel,Celesc)
+257,4,9,Casa,4242 Elgar Place,Zona Norte,Mato Grosso do Sul,Belém,7,2,1,897.69,URL: https://www.izimoveis/foto2542.com.br,Copel,Light
+258,12,2,Casa,69852 Coleman Plaza,Zona Leste,Distrito Federal,Campo Grande,3,1,2,899.23,URL: https://www.izimoveis/foto3939.com.br,Neoenergia,Cemig
+259,18,34,Casa,4950 Riverside Road,Zona Oeste,Tocantins,Vitória,2,5,5,358.7,URL: https://www.izimoveis/foto6442.com.br,Light,Energisa
+260,4,46,Casa,8300 Elka Trail,Zona Oeste,Paraná,Natal,5,1,2,228.79,URL: https://www.izimoveis/foto1150.com.br,Celesc),Enel
+261,13,81,Apartamento,725 1st Place,Zona Sul,Rio Grande do Norte,Florianópolis,1,5,5,827.83,URL: https://www.izimoveis/foto0395.com.br,Cemig,Energética
+262,22,78,Casa,1937 Ohio Pass,Zona Sul,Alagoas,Belo Horizonte,1,5,2,232.46,URL: https://www.izimoveis/foto6693.com.br,Elektro,Copel
+263,7,49,Apartamento,3 Carberry Point,Zona Leste,Tocantins,Boa Vista,6,4,5,191.5,URL: https://www.izimoveis/foto0173.com.br,Copel,Cemig
+264,7,97,Casa,0 Ronald Regan Court,Zona Oeste,São Paulo,Manaus,7,7,2,970.21,URL: https://www.izimoveis/foto4296.com.br,Enel,Neoenergia
+265,14,29,Apartamento,74 Arrowood Pass,Zona Oeste,Minas Gerais,São Paulo,5,4,5,541.87,URL: https://www.izimoveis/foto2067.com.br,Celesc),Neoenergia
+266,13,66,Casa,92 Algoma Circle,Zona Sul,Rio Grande do Norte,João Pessoa,2,3,3,267.41,URL: https://www.izimoveis/foto7565.com.br,Eletrobras,CPFL Energia
+267,27,82,Casa,5 Sommers Street,Zona Norte,Rio de Janeiro,Florianópolis,7,1,2,332.37,URL: https://www.izimoveis/foto6050.com.br,Cemig,Energética
+268,17,83,Casa,29 Brickson Park Court,Zona Leste,Alagoas,Boa Vista,2,6,5,674.54,URL: https://www.izimoveis/foto4538.com.br,CPFL Energia,Neoenergia
+269,25,24,Casa,33 Portage Street,Zona Leste,Rio Grande do Norte,Aracaju,7,3,1,214.06,URL: https://www.izimoveis/foto7889.com.br,Celesc),Neoenergia
+270,29,35,Apartamento,36 American Place,Zona Sul,Amapá,Campo Grande,2,7,5,504.77,URL: https://www.izimoveis/foto9233.com.br,Energética,Neoenergia
+271,12,28,Casa,2 Donald Point,Zona Sul,Espírito Santo,Fortaleza,4,7,5,546.64,URL: https://www.izimoveis/foto9328.com.br,CPFL Energia,Energisa
+272,24,12,Apartamento,738 Crescent Oaks Place,Zona Oeste,Piauí,Curitiba,6,4,3,470.05,URL: https://www.izimoveis/foto6639.com.br,Cemig,Neoenergia
+273,2,84,Casa,258 Fulton Point,Zona Sul,Maranhão,Natal,2,6,2,929.31,URL: https://www.izimoveis/foto0548.com.br,Copel,Enel
+274,16,23,Apartamento,09070 Kensington Way,Zona Leste,Amapá,Boa Vista,5,7,1,817.53,URL: https://www.izimoveis/foto1542.com.br,Light,Neoenergia
+275,1,72,Casa,19676 Knutson Way,Zona Leste,Rio de Janeiro,Goiânia,1,3,5,892.36,URL: https://www.izimoveis/foto2266.com.br,Light,Light
+276,17,98,Casa,878 Dakota Hill,Zona Norte,Rio Grande do Sul,Cuiabá,6,6,1,328.29,URL: https://www.izimoveis/foto0201.com.br,Cemig,Energética
+277,19,16,Casa,37 Hayes Alley,Zona Sul,Paraíba,Teresina,3,1,5,425.34,URL: https://www.izimoveis/foto5412.com.br,Neoenergia,Energética
+278,18,15,Apartamento,8 Dryden Center,Zona Oeste,Mato Grosso,Belo Horizonte,3,7,5,509.78,URL: https://www.izimoveis/foto5528.com.br,Celesc),Enel
+279,24,93,Apartamento,5551 Scofield Street,Zona Leste,Piauí,Porto Velho,7,5,1,804.8,URL: https://www.izimoveis/foto4716.com.br,Energisa,Celesc)
+280,4,7,Apartamento,692 Lyons Pass,Zona Norte,Sergipe,Florianópolis,2,5,4,664.62,URL: https://www.izimoveis/foto9757.com.br,Celesc),Energisa
+281,22,92,Apartamento,227 Ohio Drive,Zona Leste,Santa Catarina,Campo Grande,5,2,2,369.54,URL: https://www.izimoveis/foto7145.com.br,Copel,Cemig
+282,3,91,Apartamento,41 Nevada Court,Zona Norte,Roraima,João Pessoa,7,2,2,682.45,URL: https://www.izimoveis/foto7475.com.br,Elektro,Neoenergia
+283,6,21,Casa,31817 Judy Point,Zona Oeste,Distrito Federal,Natal,4,1,3,272.34,URL: https://www.izimoveis/foto4221.com.br,Energética,Eletrobras
+284,8,92,Casa,1654 Jana Hill,Zona Oeste,Mato Grosso,João Pessoa,6,7,5,989.4,URL: https://www.izimoveis/foto9126.com.br,Energisa,CPFL Energia
+285,24,37,Apartamento,41679 Anderson Court,Zona Oeste,Amapá,Salvador,1,1,1,927.73,URL: https://www.izimoveis/foto8571.com.br,Elektro,Cemig
+286,16,35,Casa,003 Manitowish Lane,Zona Leste,Rondônia,Porto Velho,7,1,4,266.07,URL: https://www.izimoveis/foto7077.com.br,Energisa,Neoenergia
+287,2,23,Apartamento,470 Algoma Hill,Zona Oeste,Bahia,Salvador,2,2,3,250.7,URL: https://www.izimoveis/foto6337.com.br,Eletrobras,CPFL Energia
+288,22,76,Casa,475 Warbler Court,Zona Leste,Acre,Recife,1,8,5,455.65,URL: https://www.izimoveis/foto2750.com.br,Enel,Energética
+289,5,9,Apartamento,2 Hayes Terrace,Zona Oeste,Mato Grosso do Sul,Palmas,3,8,2,627.67,URL: https://www.izimoveis/foto2704.com.br,Celesc),Enel
+290,22,36,Apartamento,72 Rieder Center,Zona Norte,Paraná,Florianópolis,3,5,2,874.3,URL: https://www.izimoveis/foto9294.com.br,Enel,Eletrobras
+291,13,74,Apartamento,31 Sunfield Center,Zona Oeste,Mato Grosso do Sul,Campo Grande,6,4,4,126.58,URL: https://www.izimoveis/foto6759.com.br,Copel,Energisa
+292,28,7,Casa,6 Fallview Alley,Zona Oeste,São Paulo,Macapá,5,5,5,508.79,URL: https://www.izimoveis/foto3617.com.br,Copel,Cemig
+293,26,77,Apartamento,113 Raven Road,Zona Norte,Mato Grosso do Sul,Belo Horizonte,3,6,1,258.97,URL: https://www.izimoveis/foto1404.com.br,Energisa,Celesc)
+294,1,1,Apartamento,95728 Glacier Hill Trail,Zona Leste,Rio de Janeiro,Belo Horizonte,6,2,4,140.92,URL: https://www.izimoveis/foto8842.com.br,Neoenergia,Energética
+295,19,88,Casa,79 Pawling Parkway,Zona Leste,Acre,Florianópolis,2,7,3,914.4,URL: https://www.izimoveis/foto5668.com.br,Neoenergia,Enel
+296,10,42,Apartamento,6 Russell Court,Zona Norte,Amazonas,Recife,7,5,2,199.36,URL: https://www.izimoveis/foto1306.com.br,Cemig,CPFL Energia
+297,30,66,Apartamento,38 Sunbrook Parkway,Zona Leste,Mato Grosso do Sul,Brasília,1,7,2,270.09,URL: https://www.izimoveis/foto4424.com.br,Enel,Neoenergia
+298,24,57,Casa,2489 Golden Leaf Court,Zona Oeste,Santa Catarina,Belém,7,6,5,550.59,URL: https://www.izimoveis/foto4371.com.br,Celesc),Enel
+299,10,84,Casa,3626 Walton Center,Zona Oeste,Sergipe,Florianópolis,7,2,2,87.32,URL: https://www.izimoveis/foto6407.com.br,Celesc),Elektro
+300,10,87,Apartamento,49 Cambridge Road,Zona Leste,Acre,Palmas,6,3,4,614.04,URL: https://www.izimoveis/foto3005.com.br,CPFL Energia,Eletrobras
+301,28,25,Casa,8 Carioca Street,Zona Norte,Pará,São Luís,6,2,4,365.93,URL: https://www.izimoveis/foto7138.com.br,Copel,Celesc)
+302,18,64,Apartamento,9164 High Crossing Point,Zona Sul,Amazonas,Aracaju,4,2,3,516.03,URL: https://www.izimoveis/foto1963.com.br,Elektro,Neoenergia
+303,29,31,Apartamento,16 Springs Hill,Zona Oeste,Maranhão,Rio de Janeiro,4,4,2,805.43,URL: https://www.izimoveis/foto0401.com.br,Energética,Eletrobras
+304,9,20,Casa,842 Larry Crossing,Zona Leste,Rio Grande do Norte,Vitória,6,8,4,272.38,URL: https://www.izimoveis/foto9308.com.br,Neoenergia,Light
+305,7,79,Casa,793 Raven Place,Zona Leste,Rio Grande do Sul,Goiânia,7,4,4,465.47,URL: https://www.izimoveis/foto3627.com.br,Celesc),Enel
+306,7,81,Apartamento,0366 Becker Avenue,Zona Norte,Ceará,Brasília,4,3,2,652.42,URL: https://www.izimoveis/foto6706.com.br,Celesc),Elektro
+307,17,4,Apartamento,2300 Trailsway Street,Zona Sul,Santa Catarina,Porto Alegre,2,8,5,910.09,URL: https://www.izimoveis/foto9467.com.br,Energética,Elektro
+308,23,22,Apartamento,64067 Crownhardt Hill,Zona Norte,São Paulo,Salvador,7,1,4,431.79,URL: https://www.izimoveis/foto8927.com.br,Cemig,Energética
+309,24,45,Apartamento,1802 Trailsway Point,Zona Oeste,Pará,Recife,6,4,1,987.55,URL: https://www.izimoveis/foto5766.com.br,CPFL Energia,Celesc)
+310,27,86,Casa,84 Lighthouse Bay Road,Zona Norte,Rio de Janeiro,Rio de Janeiro,5,8,1,484.67,URL: https://www.izimoveis/foto3621.com.br,Energisa,Light
+311,22,85,Apartamento,40 Derek Trail,Zona Oeste,Pará,Recife,6,4,3,627.23,URL: https://www.izimoveis/foto7693.com.br,Eletrobras,Eletrobras
+312,18,41,Apartamento,7 Memorial Park,Zona Sul,Piauí,Cuiabá,7,7,3,934.14,URL: https://www.izimoveis/foto5480.com.br,Copel,Light
+313,21,69,Casa,3 Truax Point,Zona Leste,Distrito Federal,Palmas,6,7,4,681.22,URL: https://www.izimoveis/foto2732.com.br,Light,Copel
+314,24,29,Apartamento,375 Petterle Terrace,Zona Norte,Amapá,Manaus,7,1,1,460.82,URL: https://www.izimoveis/foto6079.com.br,Light,Celesc)
+315,15,43,Apartamento,5 Harbort Hill,Zona Sul,São Paulo,Florianópolis,6,5,1,108.64,URL: https://www.izimoveis/foto6690.com.br,Neoenergia,Energisa
+316,2,41,Casa,9922 Glendale Center,Zona Leste,Mato Grosso do Sul,Goiânia,3,5,5,748.61,URL: https://www.izimoveis/foto9564.com.br,Energisa,Eletrobras
+317,20,65,Apartamento,9862 Service Way,Zona Sul,São Paulo,Rio de Janeiro,4,1,4,314.21,URL: https://www.izimoveis/foto2285.com.br,Copel,Celesc)
+318,3,57,Casa,32 Bayside Parkway,Zona Oeste,Amapá,São Paulo,7,4,5,569.06,URL: https://www.izimoveis/foto9171.com.br,CPFL Energia,Cemig
+319,2,45,Apartamento,650 Saint Paul Point,Zona Oeste,Rio Grande do Norte,Porto Velho,3,1,2,720.62,URL: https://www.izimoveis/foto4096.com.br,Copel,Light
+320,1,47,Casa,02274 Steensland Hill,Zona Sul,Paraíba,Recife,1,6,5,781.07,URL: https://www.izimoveis/foto0381.com.br,Energisa,Cemig
+321,17,82,Casa,5729 Lighthouse Bay Plaza,Zona Sul,Goiás,Cuiabá,3,7,4,914.85,URL: https://www.izimoveis/foto5561.com.br,Celesc),Energética
+322,4,50,Apartamento,8418 Judy Avenue,Zona Oeste,Bahia,Boa Vista,6,5,4,560.94,URL: https://www.izimoveis/foto5620.com.br,CPFL Energia,Cemig
+323,19,98,Casa,51 Harbort Crossing,Zona Oeste,Ceará,Aracaju,6,4,5,401.51,URL: https://www.izimoveis/foto6661.com.br,Neoenergia,Neoenergia
+324,1,56,Casa,5471 Merchant Pass,Zona Norte,Mato Grosso,Goiânia,4,2,4,603.77,URL: https://www.izimoveis/foto4588.com.br,Copel,Enel
+325,27,5,Apartamento,1665 Spohn Court,Zona Leste,Rio Grande do Norte,Porto Velho,6,1,4,664.54,URL: https://www.izimoveis/foto2134.com.br,Neoenergia,Energética
+326,13,70,Apartamento,443 Manley Hill,Zona Sul,São Paulo,João Pessoa,1,6,1,430.68,URL: https://www.izimoveis/foto6579.com.br,CPFL Energia,Cemig
+327,14,53,Apartamento,52 Texas Alley,Zona Norte,Alagoas,Teresina,2,7,4,787.34,URL: https://www.izimoveis/foto1956.com.br,CPFL Energia,Light
+328,23,35,Apartamento,8 Roxbury Street,Zona Norte,Tocantins,Teresina,3,7,3,710.2,URL: https://www.izimoveis/foto0630.com.br,Celesc),Light
+329,18,48,Apartamento,9 Anhalt Avenue,Zona Norte,Sergipe,Porto Velho,3,3,2,173.18,URL: https://www.izimoveis/foto5014.com.br,Celesc),Enel
+330,10,60,Apartamento,1 Hollow Ridge Court,Zona Leste,Pará,Rio de Janeiro,7,7,2,798.76,URL: https://www.izimoveis/foto6323.com.br,Energética,Eletrobras
+331,18,27,Apartamento,26 Clyde Gallagher Court,Zona Oeste,São Paulo,Belo Horizonte,3,1,5,74.74,URL: https://www.izimoveis/foto7065.com.br,Neoenergia,Enel
+332,29,96,Apartamento,0971 Clove Plaza,Zona Norte,Mato Grosso,Fortaleza,4,8,2,306.44,URL: https://www.izimoveis/foto4633.com.br,Copel,Celesc)
+333,11,33,Casa,282 Meadow Valley Street,Zona Oeste,Maranhão,São Paulo,3,1,2,57.2,URL: https://www.izimoveis/foto1069.com.br,Energisa,Enel
+334,9,97,Apartamento,6 Oak Avenue,Zona Norte,Amazonas,São Paulo,5,6,3,744.56,URL: https://www.izimoveis/foto2244.com.br,Cemig,Energética
+335,3,52,Apartamento,80800 Pankratz Place,Zona Oeste,Rondônia,Fortaleza,4,7,3,98.94,URL: https://www.izimoveis/foto4245.com.br,Cemig,Light
+336,17,3,Casa,2 Dawn Hill,Zona Oeste,Rio Grande do Norte,Vitória,1,6,4,152.45,URL: https://www.izimoveis/foto6589.com.br,Copel,Elektro
+337,11,24,Casa,18 Bay Circle,Zona Sul,Amazonas,Teresina,6,7,5,426.88,URL: https://www.izimoveis/foto2199.com.br,Eletrobras,Neoenergia
+338,28,90,Apartamento,1559 Debra Alley,Zona Leste,Paraíba,Florianópolis,3,1,4,724.78,URL: https://www.izimoveis/foto1940.com.br,Cemig,Copel
+339,11,42,Apartamento,7 Paget Alley,Zona Leste,Rio Grande do Norte,Campo Grande,6,5,1,823.17,URL: https://www.izimoveis/foto8074.com.br,Celesc),Energética
+340,23,86,Casa,7 Packers Avenue,Zona Oeste,Mato Grosso do Sul,Florianópolis,5,8,4,161.55,URL: https://www.izimoveis/foto9540.com.br,Neoenergia,Light
+341,3,83,Apartamento,1 American Point,Zona Norte,Acre,Porto Alegre,6,8,2,257.05,URL: https://www.izimoveis/foto5622.com.br,Light,Eletrobras
+342,1,46,Apartamento,0140 Southridge Terrace,Zona Leste,Minas Gerais,Curitiba,5,7,5,220.87,URL: https://www.izimoveis/foto1974.com.br,Copel,CPFL Energia
+343,12,22,Apartamento,5917 Pond Hill,Zona Leste,Bahia,Teresina,4,4,1,777.15,URL: https://www.izimoveis/foto3669.com.br,Cemig,Energisa
+344,30,76,Apartamento,44320 Basil Parkway,Zona Oeste,Rio Grande do Norte,Natal,5,5,3,127.97,URL: https://www.izimoveis/foto3848.com.br,Energética,Enel
+345,22,53,Casa,90308 Redwing Hill,Zona Norte,Alagoas,Boa Vista,7,8,4,836.68,URL: https://www.izimoveis/foto6411.com.br,Celesc),Copel
+346,24,13,Apartamento,979 Grover Street,Zona Leste,São Paulo,Cuiabá,7,5,5,572.68,URL: https://www.izimoveis/foto7569.com.br,Energisa,Light
+347,16,48,Apartamento,98 Dixon Alley,Zona Sul,Alagoas,Brasília,6,7,4,757.78,URL: https://www.izimoveis/foto5987.com.br,CPFL Energia,Celesc)
+348,8,90,Apartamento,04553 Ramsey Way,Zona Leste,Rio Grande do Sul,Porto Alegre,4,6,4,48.47,URL: https://www.izimoveis/foto0533.com.br,Neoenergia,Copel
+349,23,96,Apartamento,71221 Jenifer Way,Zona Norte,São Paulo,São Luís,7,1,1,571.94,URL: https://www.izimoveis/foto3786.com.br,Enel,Energisa
+350,19,17,Casa,22582 Kinsman Pass,Zona Norte,Rio Grande do Norte,Curitiba,2,6,4,932.56,URL: https://www.izimoveis/foto5523.com.br,Celesc),Cemig
+351,23,80,Apartamento,948 Larry Plaza,Zona Norte,Goiás,Aracaju,4,7,5,971.53,URL: https://www.izimoveis/foto5770.com.br,Energisa,Elektro
+352,10,75,Casa,9 Talmadge Crossing,Zona Leste,Rio de Janeiro,Palmas,2,2,2,268.84,URL: https://www.izimoveis/foto5828.com.br,Light,Elektro
+353,23,47,Casa,8326 Delladonna Avenue,Zona Sul,Piauí,Curitiba,6,4,2,939.81,URL: https://www.izimoveis/foto6805.com.br,Elektro,Energisa
+354,25,85,Casa,19 Graedel Crossing,Zona Leste,Goiás,Boa Vista,7,3,5,412.9,URL: https://www.izimoveis/foto3188.com.br,Energética,Enel
+355,27,32,Apartamento,1 Mosinee Terrace,Zona Norte,Sergipe,Natal,3,2,2,453.21,URL: https://www.izimoveis/foto3897.com.br,Elektro,Energisa
+356,20,88,Apartamento,21294 Little Fleur Alley,Zona Sul,Pará,Belo Horizonte,1,8,3,401.34,URL: https://www.izimoveis/foto1942.com.br,Celesc),Energisa
+357,2,5,Apartamento,987 David Terrace,Zona Leste,Goiás,Natal,2,5,5,865.81,URL: https://www.izimoveis/foto1603.com.br,Enel,Enel
+358,21,93,Apartamento,0114 Laurel Junction,Zona Norte,Mato Grosso do Sul,Boa Vista,7,1,3,954.47,URL: https://www.izimoveis/foto3912.com.br,Energética,Cemig
+359,11,21,Apartamento,81 Di Loreto Avenue,Zona Leste,Minas Gerais,Manaus,3,7,4,381.1,URL: https://www.izimoveis/foto7943.com.br,CPFL Energia,Light
+360,1,54,Apartamento,182 Transport Trail,Zona Leste,Pará,Salvador,2,6,1,196.88,URL: https://www.izimoveis/foto4137.com.br,Enel,Neoenergia
+361,6,8,Apartamento,40595 Logan Parkway,Zona Oeste,Piauí,São Paulo,2,6,1,353.81,URL: https://www.izimoveis/foto8350.com.br,Eletrobras,Celesc)
+362,7,5,Apartamento,6747 Bay Plaza,Zona Oeste,Mato Grosso,Rio de Janeiro,4,2,2,258.15,URL: https://www.izimoveis/foto6608.com.br,Enel,Cemig
+363,4,65,Apartamento,69864 Dunning Drive,Zona Oeste,Rondônia,São Luís,4,6,4,885.82,URL: https://www.izimoveis/foto5536.com.br,Light,CPFL Energia
+364,13,5,Apartamento,34 Magdeline Court,Zona Leste,Ceará,Goiânia,1,1,4,659.66,URL: https://www.izimoveis/foto8770.com.br,Elektro,CPFL Energia
+365,12,28,Casa,30751 Troy Avenue,Zona Norte,Bahia,Curitiba,6,3,3,982.56,URL: https://www.izimoveis/foto8286.com.br,CPFL Energia,Enel
+366,29,38,Casa,68977 Pierstorff Trail,Zona Leste,Bahia,Brasília,2,2,2,624.13,URL: https://www.izimoveis/foto2977.com.br,Neoenergia,Cemig
+367,21,19,Casa,83935 Merrick Parkway,Zona Sul,Piauí,Manaus,7,8,2,246.4,URL: https://www.izimoveis/foto5455.com.br,Eletrobras,CPFL Energia
+368,15,51,Casa,02930 Swallow Court,Zona Sul,São Paulo,Palmas,1,3,3,75.56,URL: https://www.izimoveis/foto0411.com.br,CPFL Energia,Celesc)
+369,27,22,Casa,24257 Iowa Lane,Zona Oeste,Paraná,Manaus,5,8,1,174.66,URL: https://www.izimoveis/foto3684.com.br,Eletrobras,Energisa
+370,25,3,Apartamento,37 Nevada Way,Zona Norte,Minas Gerais,Fortaleza,4,3,4,261.91,URL: https://www.izimoveis/foto1393.com.br,Energética,Copel
+371,18,55,Casa,2 Di Loreto Alley,Zona Oeste,Acre,João Pessoa,5,8,4,335.58,URL: https://www.izimoveis/foto6305.com.br,Enel,Cemig
+372,7,65,Casa,592 Dottie Pass,Zona Norte,Espírito Santo,São Paulo,1,8,3,881.03,URL: https://www.izimoveis/foto4601.com.br,Energética,Enel
+373,8,70,Apartamento,99113 West Parkway,Zona Sul,Paraná,Vitória,6,3,1,909.97,URL: https://www.izimoveis/foto3190.com.br,Cemig,Energisa
+374,23,86,Apartamento,640 Boyd Pass,Zona Sul,Amapá,Campo Grande,2,4,3,693.49,URL: https://www.izimoveis/foto6591.com.br,Eletrobras,Light
+375,6,81,Apartamento,3 Stephen Way,Zona Leste,Rio Grande do Sul,São Luís,1,6,1,386.68,URL: https://www.izimoveis/foto4471.com.br,CPFL Energia,Celesc)
+376,17,92,Apartamento,90913 Jenna Circle,Zona Oeste,Sergipe,Palmas,4,1,3,398.19,URL: https://www.izimoveis/foto5644.com.br,Neoenergia,Celesc)
+377,13,20,Casa,7485 Bultman Hill,Zona Norte,Alagoas,São Paulo,4,7,4,340.36,URL: https://www.izimoveis/foto9508.com.br,Eletrobras,Eletrobras
+378,6,26,Apartamento,458 Waubesa Avenue,Zona Norte,Tocantins,Campo Grande,3,2,1,911.97,URL: https://www.izimoveis/foto8546.com.br,Energética,Energética
+379,12,4,Apartamento,97 Bobwhite Lane,Zona Norte,Mato Grosso,João Pessoa,7,3,3,79.89,URL: https://www.izimoveis/foto3821.com.br,Eletrobras,Energética
+380,10,23,Casa,6051 Hollow Ridge Terrace,Zona Oeste,Maranhão,Teresina,4,1,1,154.76,URL: https://www.izimoveis/foto2667.com.br,Enel,Elektro
+381,10,71,Apartamento,05 Dahle Place,Zona Leste,Piauí,Natal,3,2,4,427.91,URL: https://www.izimoveis/foto6521.com.br,CPFL Energia,Eletrobras
+382,13,79,Apartamento,813 Bashford Place,Zona Sul,Espírito Santo,São Luís,6,3,1,807.75,URL: https://www.izimoveis/foto2612.com.br,Enel,Cemig
+383,13,60,Apartamento,8 Commercial Alley,Zona Oeste,Rio Grande do Sul,Manaus,6,8,3,46.36,URL: https://www.izimoveis/foto2377.com.br,Cemig,Energisa
+384,30,64,Apartamento,80 Colorado Center,Zona Oeste,Rio Grande do Norte,Macapá,4,4,1,634.74,URL: https://www.izimoveis/foto8247.com.br,CPFL Energia,Celesc)
+385,26,32,Apartamento,2895 Twin Pines Way,Zona Sul,Sergipe,Belo Horizonte,6,3,2,740.33,URL: https://www.izimoveis/foto0164.com.br,Light,Eletrobras
+386,17,62,Apartamento,1 Transport Park,Zona Norte,Mato Grosso do Sul,Salvador,6,4,4,275.35,URL: https://www.izimoveis/foto8171.com.br,Elektro,Enel
+387,3,74,Casa,33 Carpenter Crossing,Zona Norte,Piauí,Florianópolis,5,1,3,776.55,URL: https://www.izimoveis/foto2407.com.br,Celesc),Elektro
+388,30,31,Apartamento,7 Dahle Street,Zona Leste,Sergipe,Porto Velho,5,2,3,424.94,URL: https://www.izimoveis/foto0137.com.br,Elektro,Elektro
+389,15,3,Casa,022 Brickson Park Circle,Zona Sul,Ceará,São Luís,5,6,2,997.16,URL: https://www.izimoveis/foto9995.com.br,Enel,Copel
+390,10,68,Casa,04348 Granby Avenue,Zona Leste,Goiás,João Pessoa,3,3,2,856.58,URL: https://www.izimoveis/foto4891.com.br,CPFL Energia,CPFL Energia
+391,22,23,Apartamento,98 Service Avenue,Zona Leste,Amazonas,Rio de Janeiro,5,4,3,158.71,URL: https://www.izimoveis/foto8923.com.br,Copel,Energética
+392,23,79,Apartamento,4 Merry Park,Zona Norte,Ceará,Salvador,4,7,2,455.16,URL: https://www.izimoveis/foto7598.com.br,Energética,Energisa
+393,24,9,Apartamento,118 Gulseth Junction,Zona Leste,Pará,João Pessoa,4,8,1,600.87,URL: https://www.izimoveis/foto2535.com.br,Enel,Enel
+394,24,63,Casa,44016 Hoard Trail,Zona Norte,Bahia,São Luís,2,8,4,134.2,URL: https://www.izimoveis/foto8825.com.br,Celesc),Celesc)
+395,25,22,Casa,4 Emmet Point,Zona Norte,Maranhão,Campo Grande,7,5,4,819.27,URL: https://www.izimoveis/foto8858.com.br,Eletrobras,Celesc)
+396,10,76,Apartamento,445 Veith Park,Zona Norte,Goiás,Fortaleza,1,7,3,988.48,URL: https://www.izimoveis/foto9110.com.br,Cemig,Neoenergia
+397,4,62,Casa,9 Paget Lane,Zona Oeste,Maranhão,Macapá,2,2,4,897.37,URL: https://www.izimoveis/foto3184.com.br,Enel,Cemig
+398,14,62,Apartamento,9379 Old Shore Place,Zona Oeste,Tocantins,Teresina,5,6,2,268.29,URL: https://www.izimoveis/foto1627.com.br,Copel,Celesc)
+399,11,70,Casa,850 Anniversary Alley,Zona Norte,Goiás,Belo Horizonte,3,1,4,217.82,URL: https://www.izimoveis/foto6412.com.br,CPFL Energia,Enel
+400,11,14,Apartamento,67 Fallview Plaza,Zona Norte,Sergipe,São Luís,3,1,3,550.63,URL: https://www.izimoveis/foto9538.com.br,Light,Copel
+401,4,97,Apartamento,446 Dapin Hill,Zona Sul,Maranhão,Salvador,6,3,3,847.86,URL: https://www.izimoveis/foto3206.com.br,Energética,Celesc)
+402,2,38,Casa,20 Hanover Court,Zona Sul,São Paulo,Campo Grande,7,3,5,297.01,URL: https://www.izimoveis/foto6667.com.br,Cemig,Cemig
+403,17,29,Casa,8 2nd Court,Zona Oeste,Mato Grosso do Sul,São Paulo,4,5,1,806.62,URL: https://www.izimoveis/foto0190.com.br,Light,Energética
+404,27,73,Casa,92 Sullivan Way,Zona Leste,Rio Grande do Sul,Fortaleza,7,2,4,629.26,URL: https://www.izimoveis/foto3629.com.br,Cemig,CPFL Energia
+405,29,96,Apartamento,8 Bluestem Parkway,Zona Norte,Mato Grosso do Sul,Palmas,2,6,1,793.83,URL: https://www.izimoveis/foto2508.com.br,Energética,Enel
+406,15,43,Casa,68980 Kedzie Place,Zona Norte,Rondônia,Manaus,2,2,4,662.36,URL: https://www.izimoveis/foto6674.com.br,Energisa,Energisa
+407,14,54,Casa,17129 Debra Pass,Zona Sul,Mato Grosso do Sul,Aracaju,2,8,4,996.87,URL: https://www.izimoveis/foto4178.com.br,Neoenergia,Cemig
+408,14,3,Casa,10638 Acker Trail,Zona Sul,Amazonas,Goiânia,2,1,2,932.12,URL: https://www.izimoveis/foto2153.com.br,Energética,Energética
+409,19,87,Apartamento,5588 Sutteridge Way,Zona Oeste,Paraná,Porto Alegre,4,3,3,721.66,URL: https://www.izimoveis/foto1520.com.br,Eletrobras,Cemig
+410,8,73,Casa,804 Bluejay Hill,Zona Norte,Rio Grande do Norte,Teresina,2,3,5,949.52,URL: https://www.izimoveis/foto5133.com.br,Copel,Energisa
+411,30,2,Apartamento,014 Petterle Terrace,Zona Leste,Roraima,Manaus,6,5,1,392.72,URL: https://www.izimoveis/foto4883.com.br,Neoenergia,Light
+412,18,54,Casa,4 Glendale Parkway,Zona Oeste,Goiás,Belém,1,5,5,361.76,URL: https://www.izimoveis/foto6225.com.br,Elektro,Celesc)
+413,3,77,Casa,76 Waywood Avenue,Zona Norte,Amapá,Palmas,5,6,2,542.96,URL: https://www.izimoveis/foto6746.com.br,Cemig,Celesc)
+414,21,92,Apartamento,2 Schiller Lane,Zona Leste,Amazonas,Cuiabá,7,5,4,67.19,URL: https://www.izimoveis/foto1633.com.br,Elektro,CPFL Energia
+415,2,17,Apartamento,77206 Bartillon Trail,Zona Sul,Mato Grosso,Vitória,5,8,3,832.42,URL: https://www.izimoveis/foto4237.com.br,Light,Celesc)
+416,9,73,Casa,54459 Lindbergh Drive,Zona Oeste,Goiás,Natal,3,4,4,360.51,URL: https://www.izimoveis/foto1221.com.br,Neoenergia,Enel
+417,3,79,Casa,19193 Eagan Drive,Zona Sul,Mato Grosso do Sul,Rio de Janeiro,6,8,5,747.12,URL: https://www.izimoveis/foto1967.com.br,Neoenergia,Cemig
+418,18,87,Apartamento,2 Garrison Parkway,Zona Sul,Santa Catarina,Aracaju,5,2,3,969.77,URL: https://www.izimoveis/foto7964.com.br,Neoenergia,Cemig
+419,27,5,Apartamento,0450 Glendale Circle,Zona Oeste,Espírito Santo,Campo Grande,5,2,3,945.35,URL: https://www.izimoveis/foto3910.com.br,Energética,Eletrobras
+420,13,30,Apartamento,87465 Maple Street,Zona Oeste,Bahia,Teresina,5,2,1,889.46,URL: https://www.izimoveis/foto0413.com.br,Copel,Light
+421,19,74,Apartamento,7 Kropf Pass,Zona Sul,Distrito Federal,Campo Grande,5,1,5,237.96,URL: https://www.izimoveis/foto6299.com.br,Energética,Energética
+422,22,94,Apartamento,4 Sunnyside Point,Zona Sul,Amazonas,Fortaleza,1,4,2,994.51,URL: https://www.izimoveis/foto5768.com.br,CPFL Energia,Celesc)
+423,14,48,Apartamento,61 Park Meadow Plaza,Zona Leste,Acre,Palmas,6,2,4,542.25,URL: https://www.izimoveis/foto0855.com.br,Celesc),CPFL Energia
+424,10,23,Apartamento,87356 Green Ridge Pass,Zona Norte,Mato Grosso do Sul,Manaus,4,7,1,139.16,URL: https://www.izimoveis/foto0591.com.br,Light,Neoenergia
+425,19,38,Apartamento,27787 Del Sol Court,Zona Sul,Amapá,Brasília,3,3,4,315.21,URL: https://www.izimoveis/foto2522.com.br,Energética,Light
+426,25,93,Apartamento,3 Warrior Way,Zona Leste,Amazonas,Boa Vista,3,8,3,248.49,URL: https://www.izimoveis/foto2334.com.br,Copel,Light
+427,11,14,Casa,777 Tomscot Trail,Zona Oeste,Rio Grande do Norte,Belo Horizonte,3,4,1,688.56,URL: https://www.izimoveis/foto7895.com.br,Cemig,CPFL Energia
+428,2,73,Casa,40 Karstens Terrace,Zona Sul,Espírito Santo,Brasília,3,6,2,72.17,URL: https://www.izimoveis/foto7759.com.br,Energisa,Energisa
+429,16,44,Apartamento,75120 Cambridge Lane,Zona Norte,Amazonas,Brasília,1,3,4,131.97,URL: https://www.izimoveis/foto6016.com.br,Cemig,Elektro
+430,15,19,Casa,69362 Maple Wood Trail,Zona Sul,Pará,Goiânia,7,3,2,715.27,URL: https://www.izimoveis/foto7815.com.br,Energisa,Copel
+431,17,98,Apartamento,629 Meadow Vale Hill,Zona Sul,Bahia,Rio de Janeiro,3,1,2,641.78,URL: https://www.izimoveis/foto0091.com.br,Neoenergia,Copel
+432,30,73,Apartamento,45943 Warner Parkway,Zona Norte,Piauí,Teresina,4,8,2,512.74,URL: https://www.izimoveis/foto0144.com.br,Cemig,Elektro
+433,2,14,Apartamento,86 Truax Court,Zona Leste,Mato Grosso,Manaus,5,6,3,389.55,URL: https://www.izimoveis/foto9814.com.br,Eletrobras,Cemig
+434,14,19,Casa,04 Swallow Street,Zona Norte,Mato Grosso,Salvador,3,2,2,433.74,URL: https://www.izimoveis/foto0154.com.br,Neoenergia,Energisa
+435,19,25,Casa,5 Randy Circle,Zona Oeste,Amapá,Goiânia,1,8,4,529.73,URL: https://www.izimoveis/foto0422.com.br,Energética,Light
+436,16,34,Casa,593 Sherman Plaza,Zona Sul,Pernambuco,Teresina,2,1,5,308.5,URL: https://www.izimoveis/foto8635.com.br,Energisa,Celesc)
+437,3,32,Apartamento,91926 Towne Way,Zona Leste,Pará,Brasília,7,6,5,328.98,URL: https://www.izimoveis/foto3745.com.br,Cemig,Energética
+438,19,22,Casa,743 Summer Ridge Avenue,Zona Oeste,Ceará,João Pessoa,1,3,3,730.95,URL: https://www.izimoveis/foto7058.com.br,Copel,Energisa
+439,22,24,Apartamento,0205 Havey Road,Zona Leste,Pernambuco,Campo Grande,2,4,4,726.79,URL: https://www.izimoveis/foto2285.com.br,Neoenergia,Elektro
+440,14,89,Casa,1881 Glendale Circle,Zona Norte,Rondônia,São Paulo,3,3,5,292.73,URL: https://www.izimoveis/foto3118.com.br,Copel,Eletrobras
+441,18,50,Apartamento,0904 Farwell Pass,Zona Leste,Paraíba,Porto Alegre,4,8,2,483.66,URL: https://www.izimoveis/foto3771.com.br,Celesc),Energisa
+442,21,85,Apartamento,2872 Charing Cross Hill,Zona Oeste,Ceará,Aracaju,3,3,2,797.26,URL: https://www.izimoveis/foto2151.com.br,Copel,CPFL Energia
+443,11,17,Casa,44 Pine View Park,Zona Norte,Distrito Federal,Macapá,1,8,4,94.36,URL: https://www.izimoveis/foto4860.com.br,Light,Cemig
+444,27,90,Apartamento,43 Pennsylvania Point,Zona Oeste,Roraima,Porto Velho,2,2,4,370.04,URL: https://www.izimoveis/foto1648.com.br,CPFL Energia,Cemig
+445,11,53,Casa,1 7th Center,Zona Oeste,Paraná,Manaus,2,4,4,697.99,URL: https://www.izimoveis/foto3965.com.br,Enel,Enel
+446,27,59,Apartamento,0 Golf View Crossing,Zona Leste,Amapá,Belo Horizonte,1,2,4,73.06,URL: https://www.izimoveis/foto7825.com.br,Celesc),Eletrobras
+447,16,8,Apartamento,2 Saint Paul Trail,Zona Leste,Rio Grande do Norte,Macapá,7,5,2,962.27,URL: https://www.izimoveis/foto5968.com.br,Cemig,Cemig
+448,7,24,Apartamento,4364 Maywood Way,Zona Oeste,Mato Grosso,Cuiabá,2,2,1,240.37,URL: https://www.izimoveis/foto1738.com.br,CPFL Energia,Neoenergia
+449,7,21,Apartamento,9020 Dahle Pass,Zona Norte,Amapá,Cuiabá,7,6,3,82.8,URL: https://www.izimoveis/foto0103.com.br,Energética,Copel
+450,4,87,Apartamento,3 Spohn Hill,Zona Sul,Amazonas,Palmas,6,4,3,610.66,URL: https://www.izimoveis/foto1371.com.br,Enel,Eletrobras
+451,29,70,Apartamento,098 Mifflin Crossing,Zona Norte,Paraná,Porto Velho,4,3,4,746.4,URL: https://www.izimoveis/foto3908.com.br,Copel,Neoenergia
+452,14,26,Casa,81061 Hallows Point,Zona Norte,Mato Grosso,Recife,2,6,4,113.5,URL: https://www.izimoveis/foto4851.com.br,Enel,Celesc)
+453,4,17,Casa,15125 Tennyson Parkway,Zona Sul,Minas Gerais,Salvador,1,1,4,307.84,URL: https://www.izimoveis/foto5087.com.br,Energética,Energética
+454,23,34,Apartamento,63 Troy Road,Zona Norte,Paraná,Macapá,4,3,1,314.51,URL: https://www.izimoveis/foto2839.com.br,CPFL Energia,Energisa
+455,13,84,Casa,87 Dennis Plaza,Zona Sul,Mato Grosso do Sul,Salvador,3,5,2,255.38,URL: https://www.izimoveis/foto5395.com.br,Energisa,Energisa
+456,22,31,Casa,0 Utah Pass,Zona Sul,Paraíba,Rio de Janeiro,1,7,3,217.76,URL: https://www.izimoveis/foto8395.com.br,Neoenergia,Neoenergia
+457,23,23,Apartamento,3 Calypso Parkway,Zona Norte,Maranhão,Campo Grande,7,5,2,800.21,URL: https://www.izimoveis/foto1224.com.br,Enel,Copel
+458,12,63,Casa,59852 Annamark Place,Zona Oeste,Minas Gerais,Rio de Janeiro,3,8,2,218.91,URL: https://www.izimoveis/foto2676.com.br,Enel,Elektro
+459,16,36,Apartamento,55152 Holmberg Plaza,Zona Oeste,Ceará,Recife,3,6,2,451.16,URL: https://www.izimoveis/foto2609.com.br,Celesc),Celesc)
+460,20,76,Casa,5 Dwight Trail,Zona Norte,Pará,Manaus,4,5,1,871.51,URL: https://www.izimoveis/foto1512.com.br,Elektro,Neoenergia
+461,30,19,Casa,59 Browning Center,Zona Oeste,Santa Catarina,Belo Horizonte,4,5,4,752.32,URL: https://www.izimoveis/foto4982.com.br,Energisa,Celesc)
+462,13,2,Apartamento,7 Moulton Center,Zona Leste,Tocantins,Salvador,7,8,1,396.46,URL: https://www.izimoveis/foto8163.com.br,Elektro,Cemig
+463,8,27,Casa,66 Loomis Way,Zona Oeste,Maranhão,Porto Velho,3,3,1,368.36,URL: https://www.izimoveis/foto1126.com.br,Enel,Celesc)
+464,9,87,Apartamento,5 Blue Bill Park Place,Zona Sul,Mato Grosso do Sul,Campo Grande,5,5,4,717.16,URL: https://www.izimoveis/foto2066.com.br,Energisa,Energisa
+465,9,91,Casa,15341 Mcbride Parkway,Zona Norte,São Paulo,Recife,3,4,3,748.77,URL: https://www.izimoveis/foto9345.com.br,Enel,Eletrobras
+466,19,50,Casa,54 Karstens Hill,Zona Leste,Mato Grosso do Sul,Belém,4,4,3,359.94,URL: https://www.izimoveis/foto2611.com.br,Energisa,Enel
+467,30,90,Apartamento,9121 Luster Junction,Zona Sul,Tocantins,Curitiba,5,5,2,71.83,URL: https://www.izimoveis/foto3155.com.br,Enel,Energisa
+468,22,3,Apartamento,01469 Jana Place,Zona Leste,Amazonas,Florianópolis,7,4,5,905.42,URL: https://www.izimoveis/foto9731.com.br,Energética,Light
+469,6,28,Casa,26649 Briar Crest Street,Zona Oeste,Rio de Janeiro,Cuiabá,1,5,5,411.83,URL: https://www.izimoveis/foto8446.com.br,Energética,Neoenergia
+470,14,65,Casa,33191 Elmside Center,Zona Oeste,São Paulo,Porto Velho,6,2,5,737.77,URL: https://www.izimoveis/foto2241.com.br,CPFL Energia,Copel
+471,12,43,Casa,85635 Mccormick Court,Zona Oeste,Acre,Goiânia,3,4,4,399.33,URL: https://www.izimoveis/foto6021.com.br,Light,Energisa
+472,2,24,Casa,1491 Waxwing Park,Zona Norte,Rondônia,Natal,6,5,1,735.77,URL: https://www.izimoveis/foto4809.com.br,Elektro,Celesc)
+473,26,78,Apartamento,7268 Portage Park,Zona Leste,Acre,Aracaju,3,5,4,636.47,URL: https://www.izimoveis/foto0151.com.br,Eletrobras,Copel
+474,2,15,Apartamento,65 Larry Pass,Zona Oeste,Distrito Federal,Fortaleza,1,8,2,767.61,URL: https://www.izimoveis/foto9445.com.br,Neoenergia,Neoenergia
+475,8,85,Apartamento,23305 Susan Junction,Zona Norte,Minas Gerais,Rio de Janeiro,6,6,5,980.02,URL: https://www.izimoveis/foto3635.com.br,Copel,Neoenergia
+476,23,55,Apartamento,34815 Lukken Parkway,Zona Oeste,Paraíba,Manaus,7,6,1,221.57,URL: https://www.izimoveis/foto3843.com.br,Celesc),Enel
+477,25,66,Apartamento,94 Mariners Cove Point,Zona Oeste,Acre,Cuiabá,2,4,4,917.86,URL: https://www.izimoveis/foto3584.com.br,Celesc),Copel
+478,10,93,Casa,28 Scofield Point,Zona Norte,Rio Grande do Norte,Macapá,6,4,3,108.48,URL: https://www.izimoveis/foto5634.com.br,Cemig,Eletrobras
+479,5,10,Apartamento,80938 Ridgeway Plaza,Zona Oeste,Paraná,Cuiabá,5,7,1,839.97,URL: https://www.izimoveis/foto9956.com.br,Copel,Energética
+480,6,18,Casa,89 Oneill Alley,Zona Norte,Sergipe,São Paulo,2,4,3,398.15,URL: https://www.izimoveis/foto0973.com.br,Energética,Neoenergia
+481,16,70,Casa,71575 Dixon Lane,Zona Leste,Mato Grosso,São Paulo,2,8,2,63.12,URL: https://www.izimoveis/foto1543.com.br,Copel,Celesc)
+482,2,79,Casa,5812 Main Plaza,Zona Leste,Goiás,Teresina,1,5,4,394.04,URL: https://www.izimoveis/foto6636.com.br,Cemig,Elektro
+483,24,51,Apartamento,36 Glacier Hill Crossing,Zona Oeste,São Paulo,Macapá,1,5,5,85.86,URL: https://www.izimoveis/foto4218.com.br,Elektro,Elektro
+484,3,80,Casa,8 Sage Plaza,Zona Sul,São Paulo,São Luís,3,4,1,215.98,URL: https://www.izimoveis/foto3236.com.br,Enel,Light
+485,9,44,Casa,4 Ramsey Alley,Zona Oeste,Roraima,Brasília,7,3,2,680.49,URL: https://www.izimoveis/foto5606.com.br,Cemig,Energisa
+486,11,58,Casa,4 Oneill Lane,Zona Sul,Mato Grosso,João Pessoa,6,6,4,829.95,URL: https://www.izimoveis/foto2076.com.br,Cemig,Cemig
+487,13,34,Casa,36 Randy Parkway,Zona Norte,Mato Grosso,Porto Alegre,1,1,1,374.93,URL: https://www.izimoveis/foto0932.com.br,Celesc),Energética
+488,5,63,Apartamento,49010 Mockingbird Parkway,Zona Leste,Rio de Janeiro,Belém,2,7,4,109.87,URL: https://www.izimoveis/foto7690.com.br,Enel,Energética
+489,29,26,Casa,199 Sunnyside Trail,Zona Norte,Ceará,Manaus,4,8,5,257.2,URL: https://www.izimoveis/foto5088.com.br,Neoenergia,Neoenergia
+490,14,90,Apartamento,3584 Debs Court,Zona Sul,Paraíba,Rio de Janeiro,5,6,2,721.38,URL: https://www.izimoveis/foto8862.com.br,Neoenergia,Energisa
+491,14,32,Apartamento,8 Bobwhite Plaza,Zona Sul,São Paulo,Recife,7,3,3,154.6,URL: https://www.izimoveis/foto9461.com.br,Enel,Copel
+492,8,4,Apartamento,3 Dottie Center,Zona Oeste,Acre,Belém,3,7,4,156.27,URL: https://www.izimoveis/foto9501.com.br,Elektro,Light
+493,24,66,Casa,7661 Graedel Circle,Zona Oeste,Paraná,Porto Velho,2,8,2,262.76,URL: https://www.izimoveis/foto2098.com.br,Neoenergia,Energisa
+494,7,17,Casa,56 Welch Hill,Zona Oeste,Amazonas,Porto Alegre,2,1,3,188.56,URL: https://www.izimoveis/foto7297.com.br,Energética,Eletrobras
+495,17,69,Casa,137 Chinook Junction,Zona Oeste,Espírito Santo,Macapá,6,7,1,632.89,URL: https://www.izimoveis/foto8182.com.br,Neoenergia,Elektro
+496,2,2,Casa,5437 Algoma Terrace,Zona Norte,São Paulo,Recife,5,4,1,758.45,URL: https://www.izimoveis/foto5282.com.br,Elektro,Celesc)
+497,28,21,Casa,65480 Independence Alley,Zona Norte,Amazonas,Belo Horizonte,5,7,3,353.6,URL: https://www.izimoveis/foto3995.com.br,Light,Elektro
+498,18,39,Apartamento,76221 Westend Court,Zona Norte,Tocantins,Teresina,4,4,2,922.97,URL: https://www.izimoveis/foto4916.com.br,Celesc),Elektro
+499,13,61,Apartamento,658 Mayer Trail,Zona Norte,Pará,Palmas,5,4,1,692.11,URL: https://www.izimoveis/foto0581.com.br,Eletrobras,Energética
+500,23,39,Casa,36137 Eastwood Circle,Zona Leste,Bahia,São Luís,3,2,3,659.94,URL: https://www.izimoveis/foto7986.com.br,Celesc),Enel
