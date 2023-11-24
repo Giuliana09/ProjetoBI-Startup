@@ -99,7 +99,7 @@ Em resumo, o projeto BI-Startup não apenas construiu uma sólida infraestrutura
 
 ## 🛠 Ferramentas e Tecnologias
  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png" width="40" height="40"/><img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdhGGAMA6MDFT2O1iKZN2slI8YUy8B2d0dGy3qHlsCdeA5d0B5T9ZGDfHnfikJhQXSuM&usqp=CAU" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdhGGAMA6MDFT2O1iKZN2slI8YUy8B2d0dGy3qHlsCdeA5d0B5T9ZGDfHnfikJhQXSuM&usqp=CAU" width="40" height="40"/>
 
 
 ## 👩‍💻 Desenvolvedoras
